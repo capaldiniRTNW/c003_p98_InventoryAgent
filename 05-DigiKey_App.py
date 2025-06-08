@@ -1,16 +1,13 @@
-## INTERFACE
+# === INTERFACE ===
 
 import streamlit as st
 import pandas as pd
 
 st.set_page_config(layout="wide")
-
 st.title("Digikey App")
 st.subheader("Manage Your Inventory With AI to Ride the Next Wave")
 
 df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
-
-
 df['Product Name'] = df.apply(
     lambda row: f'<a href="{row["Product url"]}" target="_blank">{row["Product Name"]}</a>',
     axis=1
@@ -27,7 +24,6 @@ for i in range(1, 4):  # Adjust range if you have more than 3 articles
             axis=1
         )
         df = df.drop(columns=[link_col])
-
 
 # Create HTML table
 def render_html_table(dataframe):

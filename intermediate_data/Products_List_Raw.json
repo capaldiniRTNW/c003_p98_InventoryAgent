@@ -1,0 +1,3407 @@
+[
+  {
+    "name": "Automation & Control",
+    "url": "https://www.digikey.com/en/products/category/industrial-automation-and-controls/34",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/industrial-automation-accessories/800",
+    "category": "Other"
+  },
+  {
+    "name": "Controllers - Accessories",
+    "url": "https://www.digikey.com/en/products/filter/controllers/controller-accessories/816",
+    "category": "Other"
+  },
+  {
+    "name": "Controllers - PLC Modules",
+    "url": "https://www.digikey.com/en/products/filter/controllers/plc-modules/821",
+    "category": "Other"
+  },
+  {
+    "name": "Controllers - Process, Temperature",
+    "url": "https://www.digikey.com/en/products/filter/controllers/process-temperature/801",
+    "category": "Other"
+  },
+  {
+    "name": "Controllers - Programmable Logic (PLC)",
+    "url": "https://www.digikey.com/en/products/filter/controllers/programmable-plc-pac/814",
+    "category": "Other"
+  },
+  {
+    "name": "Human Machine Interface (HMI)",
+    "url": "https://www.digikey.com/en/products/filter/human-machine-interface-hmi/machine-interface/946",
+    "category": "Other"
+  },
+  {
+    "name": "Industrial Equipment",
+    "url": "https://www.digikey.com/en/products/filter/industrial-equipment/815",
+    "category": "Other"
+  },
+  {
+    "name": "Machine Vision - Cameras/Sensors",
+    "url": "https://www.digikey.com/en/products/filter/machine-vision/camera-sensors/828",
+    "category": "Other"
+  },
+  {
+    "name": "Monitor - Current/Voltage Transducer",
+    "url": "https://www.digikey.com/en/products/filter/monitors/current-voltage-transducer-monitors/807",
+    "category": "Other"
+  },
+  {
+    "name": "Panel Meters",
+    "url": "https://www.digikey.com/en/products/filter/panel-meters/meters/805",
+    "category": "Other"
+  },
+  {
+    "name": "Panel Meters - Counters, Hour Meters",
+    "url": "https://www.digikey.com/en/products/filter/panel-meters/counters-hour-meters/802",
+    "category": "Other"
+  },
+  {
+    "name": "Pneumatics, Hydraulics",
+    "url": "https://www.digikey.com/en/products/filter/pneumatics-hydraulics/valves-and-control/809",
+    "category": "Other"
+  },
+  {
+    "name": "Time Delay Relays",
+    "url": "https://www.digikey.com/en/products/filter/time-delay-relays/952",
+    "category": "Other"
+  },
+  {
+    "name": "PLC Modules",
+    "url": "https://www.digikey.com/en/products/filter/controllers-plc-modules/821?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbXDDAAYQBdAXwaA",
+    "category": "Other"
+  },
+  {
+    "name": "Cables, Wires",
+    "url": "https://www.digikey.com/en/products/category/cables-wires/22",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cable Assemblies",
+    "url": "https://www.digikey.com/en/products/category/cable-assemblies/21",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Barrel - Power Cables",
+    "url": "https://www.digikey.com/en/products/filter/barrel-connector-cables/barrel-power-cables/464",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Between Series Adapter Cables",
+    "url": "https://www.digikey.com/en/products/filter/between-series-adapter-cables/459",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Circular Cable Assemblies",
+    "url": "https://www.digikey.com/en/products/filter/circular-cable-assemblies/448",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Coaxial Cables (RF)",
+    "url": "https://www.digikey.com/en/products/filter/coaxial-cables-rf/456",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "D-Shaped, Centronics Cables",
+    "url": "https://www.digikey.com/en/products/filter/d-shaped-centronics-cables/466",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "D-Sub Cables",
+    "url": "https://www.digikey.com/en/products/filter/d-sub-cables/461",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Flat Flex Cables (FFC, FPC)",
+    "url": "https://www.digikey.com/en/products/filter/flat-flex-jumpers-cables-ffc-fpc/458",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Flat Flex, Ribbon Jumper Cables",
+    "url": "https://www.digikey.com/en/products/filter/flat-flex-ribbon-jumpers-cables/457",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Jumper Wires, Pre-Crimped Leads",
+    "url": "https://www.digikey.com/en/products/filter/jumper-wires-pre-crimped-leads/453",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Modular Cables",
+    "url": "https://www.digikey.com/en/products/filter/modular-ethernet-cables-rj45-rj11/451",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Pluggable Cables",
+    "url": "https://www.digikey.com/en/products/filter/pluggable-cables/460",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Power, Line Cables and Extension Cords",
+    "url": "https://www.digikey.com/en/products/filter/power-line-cables-and-extension-cords/452",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Rectangular Cable Assemblies",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-cable-assemblies/450",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "USB Cables",
+    "url": "https://www.digikey.com/en/products/filter/usb-cables/455",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cables, Wires - Management",
+    "url": "https://www.digikey.com/en/products/category/cables-wires-management/23",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/479",
+    "category": "Other"
+  },
+  {
+    "name": "Bushings, Grommets",
+    "url": "https://www.digikey.com/en/products/filter/bushings-grommets/491",
+    "category": "Other"
+  },
+  {
+    "name": "Cable and Cord Grips",
+    "url": "https://www.digikey.com/en/products/filter/cable-and-cord-grips/492",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cable Supports and Fasteners",
+    "url": "https://www.digikey.com/en/products/filter/cable-supports-and-fasteners/490",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cable Ties - Holders and Mountings",
+    "url": "https://www.digikey.com/en/products/filter/cable-ties-holders-and-mountings/488",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cable Ties and Cable Lacing",
+    "url": "https://www.digikey.com/en/products/filter/cable-ties-and-zip-ties/482",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Grounding Braid, Straps",
+    "url": "https://www.digikey.com/en/products/filter/grounding-braid-straps/494",
+    "category": "Other"
+  },
+  {
+    "name": "Heat Shrink Boots, Caps",
+    "url": "https://www.digikey.com/en/products/filter/heat-shrink-boots-caps/499",
+    "category": "Other"
+  },
+  {
+    "name": "Heat Shrink Tubing",
+    "url": "https://www.digikey.com/en/products/filter/heat-shrink-tubing/483",
+    "category": "Other"
+  },
+  {
+    "name": "Labels, Labeling",
+    "url": "https://www.digikey.com/en/products/filter/labels-labeling/484",
+    "category": "Other"
+  },
+  {
+    "name": "Protective Hoses, Solid Tubing, Sleeving",
+    "url": "https://www.digikey.com/en/products/filter/protective-hoses-solid-tubing-sleeving/480",
+    "category": "Other"
+  },
+  {
+    "name": "Solder Sleeve",
+    "url": "https://www.digikey.com/en/products/filter/solder-sleeve/478",
+    "category": "Other"
+  },
+  {
+    "name": "Spiral Wrap, Expandable Sleeving",
+    "url": "https://www.digikey.com/en/products/filter/spiral-wrap-expandable-sleeving/495",
+    "category": "Other"
+  },
+  {
+    "name": "Wire Ducts, Raceways",
+    "url": "https://www.digikey.com/en/products/filter/wire-ducts-raceways/wire-ducts-raceways/486",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Coaxial Cables (RF)",
+    "url": "https://www.digikey.com/en/products/filter/coaxial-cables-rf/475",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Fiber Optic Cables",
+    "url": "https://www.digikey.com/en/products/filter/fiber-optic-cables/471",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Flat Flex Cables (FFC, FPC)",
+    "url": "https://www.digikey.com/en/products/filter/flat-flex-cables-ffc-fpc/476",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Flat Ribbon Cables",
+    "url": "https://www.digikey.com/en/products/filter/flat-ribbon-cables/472",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Modular - Flat Cable",
+    "url": "https://www.digikey.com/en/products/filter/modular-flat-cable/477",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Multiple Conductor Cables",
+    "url": "https://www.digikey.com/en/products/filter/multiple-conductor-cables/473",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Single Conductor Cables (Hook-Up Wire)",
+    "url": "https://www.digikey.com/en/products/filter/single-conductor-cables-hook-up-wire/474",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Wire Wrap",
+    "url": "https://www.digikey.com/en/products/filter/wire-wrap/470",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Multiple Conductor Cables",
+    "url": "https://www.digikey.com/en/products/filter/multiple-conductor-cables/473?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRABYAmEAXQF8Gg",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Circuit Protection",
+    "url": "https://www.digikey.com/en/products/category/circuit-protection/9",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/circuit-protection-accessories/145",
+    "category": "Other"
+  },
+  {
+    "name": "Circuit Breakers",
+    "url": "https://www.digikey.com/en/products/filter/circuit-breakers/143",
+    "category": "Other"
+  },
+  {
+    "name": "Electrical, Specialty Fuses",
+    "url": "https://www.digikey.com/en/products/filter/electrical-specialty-fuses/155",
+    "category": "Other"
+  },
+  {
+    "name": "Fuseholders",
+    "url": "https://www.digikey.com/en/products/filter/fuseholders/140",
+    "category": "Other"
+  },
+  {
+    "name": "Fuses",
+    "url": "https://www.digikey.com/en/products/filter/fuses/139",
+    "category": "Other"
+  },
+  {
+    "name": "Gas Discharge Tube Arresters (GDT)",
+    "url": "https://www.digikey.com/en/products/filter/gas-discharge-tube-arresters-gdt/142",
+    "category": "Other"
+  },
+  {
+    "name": "Inrush Current Limiters (ICL)",
+    "url": "https://www.digikey.com/en/products/filter/inrush-current-limiters-icl/151",
+    "category": "Other"
+  },
+  {
+    "name": "PTC Resettable Fuses",
+    "url": "https://www.digikey.com/en/products/filter/ptc-resettable-fuses/150",
+    "category": "Other"
+  },
+  {
+    "name": "Surge Suppression ICs",
+    "url": "https://www.digikey.com/en/products/filter/surge-suppression-ics/152",
+    "category": "Other"
+  },
+  {
+    "name": "Thermal Cutoffs (Thermal Fuses)",
+    "url": "https://www.digikey.com/en/products/filter/thermal-cutoffs-thermal-fuses/146",
+    "category": "Other"
+  },
+  {
+    "name": "TVS - Diodes",
+    "url": "https://www.digikey.com/en/products/filter/transient-voltage-suppressors-tvs/tvs-diodes/144",
+    "category": "Other"
+  },
+  {
+    "name": "TVS - Mixed Technology",
+    "url": "https://www.digikey.com/en/products/filter/transient-voltage-suppressors-tvs/mixed-technology/149",
+    "category": "Other"
+  },
+  {
+    "name": "TVS - Thyristors",
+    "url": "https://www.digikey.com/en/products/filter/transient-voltage-suppressors-tvs/thyristors/147",
+    "category": "Other"
+  },
+  {
+    "name": "TVS - Varistors, MOVs",
+    "url": "https://www.digikey.com/en/products/filter/varistors-movs/141",
+    "category": "Other"
+  },
+  {
+    "name": "Circuit Protection",
+    "url": "https://www.digikey.com/en/products/category/circuit-protection/9?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRACYAGAFggPIA4BmEAXQF9Og",
+    "category": "Other"
+  },
+  {
+    "name": "Connectors",
+    "url": "https://www.digikey.com/en/products/category/connectors-interconnects/20",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Backplane Connectors",
+    "url": "https://www.digikey.com/en/products/category/backplane-connectors/2000",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/backplane-connectors/backplane-connector-accessories/343",
+    "category": "Other"
+  },
+  {
+    "name": "ARINC Inserts",
+    "url": "https://www.digikey.com/en/products/filter/backplane-connectors/arinc-inserts/430",
+    "category": "Other"
+  },
+  {
+    "name": "ARINC",
+    "url": "https://www.digikey.com/en/products/filter/backplane-connectors/arinc/386",
+    "category": "Other"
+  },
+  {
+    "name": "Contacts",
+    "url": "https://www.digikey.com/en/products/filter/backplane-connectors/backplane-connector-contacts/335",
+    "category": "Other"
+  },
+  {
+    "name": "DIN 41612",
+    "url": "https://www.digikey.com/en/products/filter/backplane-connectors/din-41612/307",
+    "category": "Other"
+  },
+  {
+    "name": "Hard Metric, Standard",
+    "url": "https://www.digikey.com/en/products/filter/backplane-connectors/hard-metric-standard/406",
+    "category": "Other"
+  },
+  {
+    "name": "Housings",
+    "url": "https://www.digikey.com/en/products/filter/backplane-connectors/backplane-connector-housings/372",
+    "category": "Other"
+  },
+  {
+    "name": "Specialized",
+    "url": "https://www.digikey.com/en/products/filter/backplane-connectors/specialized/407",
+    "category": "Other"
+  },
+  {
+    "name": "Barrel Connectors",
+    "url": "https://www.digikey.com/en/products/category/barrel-connectors/2002",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/barrel-connectors/barrel-connector-accessories/348",
+    "category": "Other"
+  },
+  {
+    "name": "Adapters",
+    "url": "https://www.digikey.com/en/products/filter/barrel-connectors/barrel-connector-adapters/376",
+    "category": "Other"
+  },
+  {
+    "name": "Audio Connectors",
+    "url": "https://www.digikey.com/en/products/filter/barrel-connectors/audio-connectors/434",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Power Connectors",
+    "url": "https://www.digikey.com/en/products/filter/barrel-connectors/power-connectors/435",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Circular Connectors",
+    "url": "https://www.digikey.com/en/products/category/circular-connectors/2005",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/circular-connectors/circular-connector-accessories/329",
+    "category": "Other"
+  },
+  {
+    "name": "Adapters",
+    "url": "https://www.digikey.com/en/products/filter/circular-connectors/circular-connector-adapters/378",
+    "category": "Other"
+  },
+  {
+    "name": "Backshells and Cable Clamps",
+    "url": "https://www.digikey.com/en/products/filter/circular-connectors/backshells-and-cable-clamps/313",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Circular Connectors",
+    "url": "https://www.digikey.com/en/products/filter/circular-connectors/circular-connector-assemblies/436",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Contacts",
+    "url": "https://www.digikey.com/en/products/filter/circular-connectors/circular-connector-contacts/330",
+    "category": "Other"
+  },
+  {
+    "name": "Housings",
+    "url": "https://www.digikey.com/en/products/filter/circular-connectors/circular-connector-housings/320",
+    "category": "Other"
+  },
+  {
+    "name": "Coaxial Connectors (RF)",
+    "url": "https://www.digikey.com/en/products/category/coaxial-connectors-rf/2007",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-accessories/342",
+    "category": "Other"
+  },
+  {
+    "name": "Adapters",
+    "url": "https://www.digikey.com/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-adapters/374",
+    "category": "Other"
+  },
+  {
+    "name": "Connectors",
+    "url": "https://www.digikey.com/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-assemblies/437",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Contacts",
+    "url": "https://www.digikey.com/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-contacts/388",
+    "category": "Other"
+  },
+  {
+    "name": "Terminators",
+    "url": "https://www.digikey.com/en/products/filter/coaxial-connectors-rf/coaxial-connector-rf-terminators/382",
+    "category": "Other"
+  },
+  {
+    "name": "D-Sub, D-Shaped Connectors",
+    "url": "https://www.digikey.com/en/products/category/d-sub-d-shaped-connectors/2011",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-accessories/339",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories - Jackscrews",
+    "url": "https://www.digikey.com/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-jackscrews/447",
+    "category": "Other"
+  },
+  {
+    "name": "Adapters",
+    "url": "https://www.digikey.com/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-adapters/375",
+    "category": "Other"
+  },
+  {
+    "name": "Backshells, Hoods",
+    "url": "https://www.digikey.com/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-backshells-hoods/355",
+    "category": "Other"
+  },
+  {
+    "name": "Contacts",
+    "url": "https://www.digikey.com/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-contacts/332",
+    "category": "Other"
+  },
+  {
+    "name": "D-Sub Connectors",
+    "url": "https://www.digikey.com/en/products/filter/d-sub-d-shaped-connectors/d-sub-connector-assemblies/439",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Housings",
+    "url": "https://www.digikey.com/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-housings/321",
+    "category": "Other"
+  },
+  {
+    "name": "Terminators",
+    "url": "https://www.digikey.com/en/products/filter/d-sub-d-shaped-connectors/d-sub-d-shaped-connector-terminators/383",
+    "category": "Other"
+  },
+  {
+    "name": "FFC, FPC (Flat Flexible) Connectors",
+    "url": "https://www.digikey.com/en/products/category/ffc-fpc-flat-flexible-connectors/2013",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-accessories/350",
+    "category": "Other"
+  },
+  {
+    "name": "Contacts",
+    "url": "https://www.digikey.com/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-contacts/344",
+    "category": "Other"
+  },
+  {
+    "name": "FFC, FPC (Flat Flexible) Connectors",
+    "url": "https://www.digikey.com/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-assemblies/399",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Housings",
+    "url": "https://www.digikey.com/en/products/filter/ffc-fpc-flat-flexible-connectors/ffc-fpc-flat-flexible-connector-housings/390",
+    "category": "Other"
+  },
+  {
+    "name": "Modular Connectors",
+    "url": "https://www.digikey.com/en/products/category/modular-ethernet-connectors/2022",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accesories",
+    "url": "https://www.digikey.com/en/products/filter/modular-ethernet-connectors/modular-ethernet-connector-accessories/442",
+    "category": "Other"
+  },
+  {
+    "name": "Adapters",
+    "url": "https://www.digikey.com/en/products/filter/modular-ethernet-connectors/modular-ethernet-connector-adapters/379",
+    "category": "Other"
+  },
+  {
+    "name": "Inline Module Sockets",
+    "url": "https://www.digikey.com/en/products/filter/memory-connectors/inline-module-sockets/413",
+    "category": "Other"
+  },
+  {
+    "name": "Jacks",
+    "url": "https://www.digikey.com/en/products/filter/modular-ethernet-connectors/modular-ethernet-connector-rj45-rj11-jacks/366",
+    "category": "Other"
+  },
+  {
+    "name": "Jacks With Magnetics",
+    "url": "https://www.digikey.com/en/products/filter/modular-ethernet-connectors/modular-ethernet-connector-rj45-jacks-with-magnetics/365",
+    "category": "Other"
+  },
+  {
+    "name": "PC Card Sockets",
+    "url": "https://www.digikey.com/en/products/filter/memory-connectors/pc-card-sockets/414",
+    "category": "Other"
+  },
+  {
+    "name": "PC Cards - Adapters",
+    "url": "https://www.digikey.com/en/products/filter/memory-connectors/pc-cards-adapters/421",
+    "category": "Other"
+  },
+  {
+    "name": "Plug Housings",
+    "url": "https://www.digikey.com/en/products/filter/modular-ethernet-connectors/modular-ethernet-connector-plug-housings/403",
+    "category": "Other"
+  },
+  {
+    "name": "Plugs",
+    "url": "https://www.digikey.com/en/products/filter/modular-ethernet-connectors/modular-ethernet-connector-rj45-rj11-plugs/367",
+    "category": "Other"
+  },
+  {
+    "name": "Wiring Blocks",
+    "url": "https://www.digikey.com/en/products/filter/modular-ethernet-connectors/modular-ethernet-connector-wiring-blocks/418",
+    "category": "Other"
+  },
+  {
+    "name": "Wiring Blocks - Accessories",
+    "url": "https://www.digikey.com/en/products/filter/modular-ethernet-connectors/modular-ethernet-connector-wiring-blocks-accessories/417",
+    "category": "Other"
+  },
+  {
+    "name": "Power Entry Connectors",
+    "url": "https://www.digikey.com/en/products/category/ac-power-connectors/2026",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/ac-power-connectors/power-entry-connector-accessories/341",
+    "category": "Other"
+  },
+  {
+    "name": "Inlets, Outlets, Modules",
+    "url": "https://www.digikey.com/en/products/filter/ac-power-connectors/power-entry-modules-pem/301",
+    "category": "Other"
+  },
+  {
+    "name": "Rectangular Connectors",
+    "url": "https://www.digikey.com/en/products/category/rectangular-connectors/2027",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/rectangular-connector-accessories/340",
+    "category": "Other"
+  },
+  {
+    "name": "Adapters",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/rectangular-connector-adapters/380",
+    "category": "Other"
+  },
+  {
+    "name": "Arrays, Edge Type, Mezzanine (Board to Board)",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/arrays-edge-type-mezzanine-board-to-board/308",
+    "category": "Other"
+  },
+  {
+    "name": "Board In, Direct Wire to Board",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/board-in-direct-wire-to-board/317",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Board Spacers, Stackers (Board to Board)",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/board-spacers-stackers-board-to-board/400",
+    "category": "Other"
+  },
+  {
+    "name": "Contacts",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/rectangular-connector-contacts/331",
+    "category": "Other"
+  },
+  {
+    "name": "Free Hanging, Panel Mount",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/free-hanging-panel-mount/316",
+    "category": "Other"
+  },
+  {
+    "name": "Headers, Male Pins",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/headers-male-pins/314",
+    "category": "Other"
+  },
+  {
+    "name": "Headers, Receptacles, Female Sockets",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/headers-receptacles-female-sockets/315",
+    "category": "Other"
+  },
+  {
+    "name": "Headers, Specialty Pin",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/headers-specialty-pin/318",
+    "category": "Other"
+  },
+  {
+    "name": "Housings",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/rectangular-connector-housings/319",
+    "category": "Other"
+  },
+  {
+    "name": "Spring Loaded",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors/spring-loaded/408",
+    "category": "Other"
+  },
+  {
+    "name": "Terminal Blocks",
+    "url": "https://www.digikey.com/en/products/category/terminal-blocks/2030",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/category/terminal-blocks/terminal-block-accessories/2033",
+    "category": "Other"
+  },
+  {
+    "name": "Adapters",
+    "url": "https://www.digikey.com/en/products/filter/terminal-blocks/terminal-block-adapters/322",
+    "category": "Other"
+  },
+  {
+    "name": "Barrier Blocks",
+    "url": "https://www.digikey.com/en/products/filter/terminal-blocks/barrier-blocks/368",
+    "category": "Other"
+  },
+  {
+    "name": "Contacts",
+    "url": "https://www.digikey.com/en/products/filter/terminal-blocks/terminal-block-contacts/338",
+    "category": "Other"
+  },
+  {
+    "name": "Din Rail, Channel",
+    "url": "https://www.digikey.com/en/products/filter/terminal-blocks/din-rail-channel/369",
+    "category": "Other"
+  },
+  {
+    "name": "Headers, Plugs and Sockets",
+    "url": "https://www.digikey.com/en/products/filter/terminal-blocks/headers-plugs-and-sockets/370",
+    "category": "Other"
+  },
+  {
+    "name": "Interface Modules",
+    "url": "https://www.digikey.com/en/products/filter/terminal-blocks/interface-modules/431",
+    "category": "Other"
+  },
+  {
+    "name": "Panel Mount",
+    "url": "https://www.digikey.com/en/products/filter/terminal-blocks/panel-mount/425",
+    "category": "Other"
+  },
+  {
+    "name": "Power Distribution",
+    "url": "https://www.digikey.com/en/products/filter/terminal-blocks/power-distribution/412",
+    "category": "Other"
+  },
+  {
+    "name": "Specialized",
+    "url": "https://www.digikey.com/en/products/filter/terminal-blocks/specialized/433",
+    "category": "Other"
+  },
+  {
+    "name": "Wire to Board",
+    "url": "https://www.digikey.com/en/products/filter/terminal-blocks/wire-to-board/371",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Terminals",
+    "url": "https://www.digikey.com/en/products/category/terminals/2031",
+    "category": "Other"
+  },
+  {
+    "name": "Barrel, Bullet Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/barrel-bullet-connectors/393",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Housing, Boots",
+    "url": "https://www.digikey.com/en/products/filter/terminals/housings-boots/325",
+    "category": "Other"
+  },
+  {
+    "name": "PC Pin Receptacles, Socket Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/pc-pin-receptacles-socket-connectors/324",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "PC Pin, Single Post Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/pc-pin-single-post-connectors/323",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Quick Connects, Quick Disconnect Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/quick-connects-quick-disconnect-connectors/392",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Rectangular Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/lugs/395",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Ring Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/ring-connectors/394",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Screw Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/screw-connectors/396",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Spade Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/spade-connectors/391",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Specialized Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/specialized-connectors/356",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Turret Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/turret-connectors/328",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Wire Splice Connectors",
+    "url": "https://www.digikey.com/en/products/filter/terminals/wire-splice-connectors/305",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "USB, DVI, HDMI Connectors",
+    "url": "https://www.digikey.com/en/products/category/usb-dvi-hdmi-connectors/2032",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/usb-dvi-hdmi-connectors/usb-dvi-hdmi-connector-accessories/347",
+    "category": "Other"
+  },
+  {
+    "name": "Adapters",
+    "url": "https://www.digikey.com/en/products/filter/usb-dvi-hdmi-connectors/usb-dvi-hdmi-connector-adapters/377",
+    "category": "Other"
+  },
+  {
+    "name": "Connectors",
+    "url": "https://www.digikey.com/en/products/filter/usb-dvi-hdmi-connectors/usb-dvi-hdmi-connector-assemblies/312",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Rectangular Connectors - Headers, Male Pins",
+    "url": "https://www.digikey.com/en/products/filter/rectangular-connectors-headers-male-pins/314?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRACYBmEAXQF8Gg",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Electromechanical",
+    "url": "https://www.digikey.com/en/products/super-category/electromechanical/9",
+    "category": "Other"
+  },
+  {
+    "name": "Audio Products",
+    "url": "https://www.digikey.com/en/products/category/audio-products/10",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/159",
+    "category": "Other"
+  },
+  {
+    "name": "Alarms, Buzzers, and Sirens",
+    "url": "https://www.digikey.com/en/products/filter/alarms-buzzers-and-sirens/157",
+    "category": "Other"
+  },
+  {
+    "name": "Buzzer Elements, Piezo Benders",
+    "url": "https://www.digikey.com/en/products/filter/buzzer-elements-piezo-benders/160",
+    "category": "Other"
+  },
+  {
+    "name": "Microphones",
+    "url": "https://www.digikey.com/en/products/filter/microphones/158",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Speakers",
+    "url": "https://www.digikey.com/en/products/filter/speakers/156",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Motors, Solenoids, Driver Boards/Modules",
+    "url": "https://www.digikey.com/en/products/category/motors-actuators-solenoids-and-drivers/13",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/177",
+    "category": "Other"
+  },
+  {
+    "name": "Motor Driver Boards, Modules",
+    "url": "https://www.digikey.com/en/products/filter/motor-driver-boards-modules/181",
+    "category": "Other"
+  },
+  {
+    "name": "Motors - AC, DC",
+    "url": "https://www.digikey.com/en/products/filter/motors-ac-dc/178",
+    "category": "Other"
+  },
+  {
+    "name": "Solenoids, Actuators",
+    "url": "https://www.digikey.com/en/products/filter/solenoids/180",
+    "category": "Other"
+  },
+  {
+    "name": "Stepper Motors",
+    "url": "https://www.digikey.com/en/products/filter/stepper-motors/179",
+    "category": "Other"
+  },
+  {
+    "name": "Relays",
+    "url": "https://www.digikey.com/en/products/category/relays/14",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/182",
+    "category": "Other"
+  },
+  {
+    "name": "Automotive Relays",
+    "url": "https://www.digikey.com/en/products/filter/automotive-relays/962",
+    "category": "Other"
+  },
+  {
+    "name": "Contactors (Electromechanical)",
+    "url": "https://www.digikey.com/en/products/filter/contactors-electromechanical/969",
+    "category": "Other"
+  },
+  {
+    "name": "Contactors (Solid State)",
+    "url": "https://www.digikey.com/en/products/filter/contactors-solid-state/970",
+    "category": "Other"
+  },
+  {
+    "name": "High Frequency (RF) Relays",
+    "url": "https://www.digikey.com/en/products/filter/high-frequency-rf-relays/963",
+    "category": "Other"
+  },
+  {
+    "name": "I/O Relay Module Racks",
+    "url": "https://www.digikey.com/en/products/filter/i-o-relay-module-racks/190",
+    "category": "Other"
+  },
+  {
+    "name": "I/O Relay Modules",
+    "url": "https://www.digikey.com/en/products/filter/i-o-relay-modules/186",
+    "category": "Other"
+  },
+  {
+    "name": "Power Relays, Over 2 Amps",
+    "url": "https://www.digikey.com/en/products/filter/power-relays-over-2-amps/188",
+    "category": "Other"
+  },
+  {
+    "name": "Reed Relays",
+    "url": "https://www.digikey.com/en/products/filter/reed-relays/964",
+    "category": "Other"
+  },
+  {
+    "name": "Relay Sockets",
+    "url": "https://www.digikey.com/en/products/filter/relay-sockets/184",
+    "category": "Other"
+  },
+  {
+    "name": "Signal Relays, Up to 2 Amps",
+    "url": "https://www.digikey.com/en/products/filter/signal-relays-up-to-2-amps/189",
+    "category": "Other"
+  },
+  {
+    "name": "Solid State Relays",
+    "url": "https://www.digikey.com/en/products/filter/solid-state-relays-ssr/183",
+    "category": "Other"
+  },
+  {
+    "name": "Switches",
+    "url": "https://www.digikey.com/en/products/category/switches/15",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/192",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories - Caps",
+    "url": "https://www.digikey.com/en/products/filter/accessories-caps/210",
+    "category": "Other"
+  },
+  {
+    "name": "DIP Switches",
+    "url": "https://www.digikey.com/en/products/filter/dip-switches/194",
+    "category": "Other"
+  },
+  {
+    "name": "Keylock Switches",
+    "url": "https://www.digikey.com/en/products/filter/keylock-switches/196",
+    "category": "Other"
+  },
+  {
+    "name": "Magnetic, Reed Switches",
+    "url": "https://www.digikey.com/en/products/filter/magnetic-reed-switches/193",
+    "category": "Other"
+  },
+  {
+    "name": "Navigation Switches, Joystick",
+    "url": "https://www.digikey.com/en/products/filter/navigation-switches-joystick/204",
+    "category": "Other"
+  },
+  {
+    "name": "Pushbutton Switches",
+    "url": "https://www.digikey.com/en/products/filter/pushbutton-switches/199",
+    "category": "Other"
+  },
+  {
+    "name": "Rocker Switches",
+    "url": "https://www.digikey.com/en/products/filter/rocker-switches/195",
+    "category": "Other"
+  },
+  {
+    "name": "Rotary Switches",
+    "url": "https://www.digikey.com/en/products/filter/rotary-switches/200",
+    "category": "Other"
+  },
+  {
+    "name": "Selector Switches",
+    "url": "https://www.digikey.com/en/products/filter/selector-switches/203",
+    "category": "Other"
+  },
+  {
+    "name": "Slide Switches",
+    "url": "https://www.digikey.com/en/products/filter/slide-switches/213",
+    "category": "Other"
+  },
+  {
+    "name": "Snap Action, Limit Switches",
+    "url": "https://www.digikey.com/en/products/filter/limit-switches/198",
+    "category": "Other"
+  },
+  {
+    "name": "Tactile Switches",
+    "url": "https://www.digikey.com/en/products/filter/tactile-switches/197",
+    "category": "Other"
+  },
+  {
+    "name": "Toggle Switches",
+    "url": "https://www.digikey.com/en/products/filter/toggle-switches/201",
+    "category": "Other"
+  },
+  {
+    "name": "Relays",
+    "url": "https://www.digikey.com/en/products/category/relays/14?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIATAKxUiFgAMd4YjIAugL7dA",
+    "category": "Other"
+  },
+  {
+    "name": "Enclosures, Hardware, Office",
+    "url": "https://www.digikey.com/en/products/super-category/enclosures-hardware-office/11",
+    "category": "Other"
+  },
+  {
+    "name": "Boxes, Enclosures, Racks",
+    "url": "https://www.digikey.com/en/products/category/boxes-enclosures-racks/27",
+    "category": "Other"
+  },
+  {
+    "name": "Backplanes",
+    "url": "https://www.digikey.com/en/products/filter/backplanes/589",
+    "category": "Other"
+  },
+  {
+    "name": "Box Accessories",
+    "url": "https://www.digikey.com/en/products/filter/box-accessories/595",
+    "category": "Other"
+  },
+  {
+    "name": "Box Components",
+    "url": "https://www.digikey.com/en/products/filter/box-components/596",
+    "category": "Other"
+  },
+  {
+    "name": "Boxes",
+    "url": "https://www.digikey.com/en/products/filter/boxes/594",
+    "category": "Other"
+  },
+  {
+    "name": "Cams",
+    "url": "https://www.digikey.com/en/products/filter/cams/960",
+    "category": "Other"
+  },
+  {
+    "name": "Card Guide Accessories",
+    "url": "https://www.digikey.com/en/products/filter/card-guide-accessories/600",
+    "category": "Other"
+  },
+  {
+    "name": "Card Guides",
+    "url": "https://www.digikey.com/en/products/filter/card-guides/591",
+    "category": "Other"
+  },
+  {
+    "name": "Card Rack Accessories",
+    "url": "https://www.digikey.com/en/products/filter/card-rack-accessories/601",
+    "category": "Other"
+  },
+  {
+    "name": "Card Racks",
+    "url": "https://www.digikey.com/en/products/filter/card-racks/588",
+    "category": "Other"
+  },
+  {
+    "name": "Evaluation, Development Board Enclosures",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-development-board-enclosures/975",
+    "category": "Other"
+  },
+  {
+    "name": "Handles",
+    "url": "https://www.digikey.com/en/products/filter/handles/590",
+    "category": "Other"
+  },
+  {
+    "name": "Patchbay, Jack Panels",
+    "url": "https://www.digikey.com/en/products/filter/patchbay-jack-panels/592",
+    "category": "Other"
+  },
+  {
+    "name": "Rack Accessories",
+    "url": "https://www.digikey.com/en/products/filter/rack-accessories/598",
+    "category": "Other"
+  },
+  {
+    "name": "Rack Components",
+    "url": "https://www.digikey.com/en/products/filter/rack-components/599",
+    "category": "Other"
+  },
+  {
+    "name": "Racks",
+    "url": "https://www.digikey.com/en/products/filter/racks/597",
+    "category": "Other"
+  },
+  {
+    "name": "Computer Equipment",
+    "url": "https://www.digikey.com/en/products/category/computer-equipment/38",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/881",
+    "category": "Other"
+  },
+  {
+    "name": "Adapter Cards",
+    "url": "https://www.digikey.com/en/products/filter/adapter-cards/888",
+    "category": "Other"
+  },
+  {
+    "name": "Adapters, Converters",
+    "url": "https://www.digikey.com/en/products/filter/adapters-converters/882",
+    "category": "Other"
+  },
+  {
+    "name": "Brackets",
+    "url": "https://www.digikey.com/en/products/filter/brackets/889",
+    "category": "Other"
+  },
+  {
+    "name": "Cameras, Projectors",
+    "url": "https://www.digikey.com/en/products/filter/cameras-projectors/898",
+    "category": "Other"
+  },
+  {
+    "name": "Computer Mouse, Trackballs",
+    "url": "https://www.digikey.com/en/products/filter/computer-mouse-trackballs/893",
+    "category": "Other"
+  },
+  {
+    "name": "Keyboards",
+    "url": "https://www.digikey.com/en/products/filter/keyboards/885",
+    "category": "Other"
+  },
+  {
+    "name": "KVM Switches (Keyboard Video Mouse)",
+    "url": "https://www.digikey.com/en/products/filter/kvm-switches-keyboard-video-mouse/890",
+    "category": "Other"
+  },
+  {
+    "name": "KVM Switches (Keyboard Video Mouse) - Cables",
+    "url": "https://www.digikey.com/en/products/filter/kvm-switches-keyboard-video-mouse-cables/896",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Magnetic Strip, Smart Card Readers",
+    "url": "https://www.digikey.com/en/products/filter/magnetic-strip-smart-card-readers/891",
+    "category": "Other"
+  },
+  {
+    "name": "Memory Card Readers",
+    "url": "https://www.digikey.com/en/products/filter/memory-card-readers/895",
+    "category": "Other"
+  },
+  {
+    "name": "Printers, Label Makers",
+    "url": "https://www.digikey.com/en/products/filter/printers-label-makers/887",
+    "category": "Other"
+  },
+  {
+    "name": "Hardware, Fasteners, Accessories",
+    "url": "https://www.digikey.com/en/products/category/hardware-fasteners-accessories/26",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/569",
+    "category": "Other"
+  },
+  {
+    "name": "Board Spacers, Standoffs",
+    "url": "https://www.digikey.com/en/products/filter/board-spacers-standoffs/582",
+    "category": "Other"
+  },
+  {
+    "name": "Board Supports",
+    "url": "https://www.digikey.com/en/products/filter/board-supports/578",
+    "category": "Other"
+  },
+  {
+    "name": "Bumpers, Feet, Pads, Grips",
+    "url": "https://www.digikey.com/en/products/filter/bumpers-feet-pads-grips/570",
+    "category": "Other"
+  },
+  {
+    "name": "Clips, Hangers, Hooks",
+    "url": "https://www.digikey.com/en/products/filter/clips-hangers-hooks/954",
+    "category": "Other"
+  },
+  {
+    "name": "Component Insulators, Mounts, Spacers",
+    "url": "https://www.digikey.com/en/products/filter/component-insulators-mounts-spacers/585",
+    "category": "Other"
+  },
+  {
+    "name": "DIN Rail Channel",
+    "url": "https://www.digikey.com/en/products/filter/din-rail-channel/580",
+    "category": "Other"
+  },
+  {
+    "name": "Hole Plugs",
+    "url": "https://www.digikey.com/en/products/filter/hole-plugs-tapered-caps/581",
+    "category": "Other"
+  },
+  {
+    "name": "Knobs",
+    "url": "https://www.digikey.com/en/products/filter/knobs/568",
+    "category": "Other"
+  },
+  {
+    "name": "Mounting Brackets",
+    "url": "https://www.digikey.com/en/products/filter/mounting-brackets/574",
+    "category": "Other"
+  },
+  {
+    "name": "Nuts",
+    "url": "https://www.digikey.com/en/products/filter/nuts/573",
+    "category": "Other"
+  },
+  {
+    "name": "Rivets",
+    "url": "https://www.digikey.com/en/products/filter/rivets/576",
+    "category": "Other"
+  },
+  {
+    "name": "Screws, Bolts",
+    "url": "https://www.digikey.com/en/products/filter/screws-bolts/572",
+    "category": "Other"
+  },
+  {
+    "name": "Washers",
+    "url": "https://www.digikey.com/en/products/filter/washers/standard-washers/571",
+    "category": "Other"
+  },
+  {
+    "name": "Washers - Bushing, Shoulder",
+    "url": "https://www.digikey.com/en/products/filter/washers/bushing-shoulder-washers/583",
+    "category": "Other"
+  },
+  {
+    "name": "Memory Cards, Modules",
+    "url": "https://www.digikey.com/en/products/category/memory-modules-cards/24",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/memory-card-module-accessories/500",
+    "category": "Other"
+  },
+  {
+    "name": "Memory - Modules",
+    "url": "https://www.digikey.com/en/products/filter/memory-modules/505",
+    "category": "Other"
+  },
+  {
+    "name": "Memory Cards",
+    "url": "https://www.digikey.com/en/products/filter/memory-cards/501",
+    "category": "Other"
+  },
+  {
+    "name": "Solid State Drives (SSDs)",
+    "url": "https://www.digikey.com/en/products/filter/solid-state-drives-ssds-hard-disk-drives-hdds/503",
+    "category": "Other"
+  },
+  {
+    "name": "Specialized",
+    "url": "https://www.digikey.com/en/products/filter/specialized/502",
+    "category": "Other"
+  },
+  {
+    "name": "USB Flash Drives",
+    "url": "https://www.digikey.com/en/products/filter/usb-flash-drives/504",
+    "category": "Other"
+  },
+  {
+    "name": "Networking Solutions",
+    "url": "https://www.digikey.com/en/products/category/networking-solutions/44",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/925",
+    "category": "Other"
+  },
+  {
+    "name": "Gateways, Routers",
+    "url": "https://www.digikey.com/en/products/filter/gateways-routers/928",
+    "category": "Other"
+  },
+  {
+    "name": "Media Converters",
+    "url": "https://www.digikey.com/en/products/filter/media-converters/929",
+    "category": "Other"
+  },
+  {
+    "name": "Miscellaneous",
+    "url": "https://www.digikey.com/en/products/filter/miscellaneous/926",
+    "category": "Other"
+  },
+  {
+    "name": "Serial Device Servers",
+    "url": "https://www.digikey.com/en/products/filter/serial-device-servers/930",
+    "category": "Other"
+  },
+  {
+    "name": "Switches, Hubs",
+    "url": "https://www.digikey.com/en/products/filter/switches-hubs/927",
+    "category": "Other"
+  },
+  {
+    "name": "Boxes",
+    "url": "https://www.digikey.com/en/products/filter/boxes-enclosures-racks/594?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzAOxUgC6Avk0A",
+    "category": "Other"
+  },
+  {
+    "name": "Fans, Thermal Management",
+    "url": "https://www.digikey.com/en/products/category/fans-blowers-thermal-management/16",
+    "category": "Other"
+  },
+  {
+    "name": "AC Fans",
+    "url": "https://www.digikey.com/en/products/filter/fans/ac-fans/216",
+    "category": "Other"
+  },
+  {
+    "name": "DC Fans",
+    "url": "https://www.digikey.com/en/products/filter/fans/dc-brushless-fans-bldc/217",
+    "category": "Other"
+  },
+  {
+    "name": "Fans - Accessories",
+    "url": "https://www.digikey.com/en/products/filter/fans/fan-accessories/223",
+    "category": "Other"
+  },
+  {
+    "name": "Fans - Accessories - Fan Cords",
+    "url": "https://www.digikey.com/en/products/filter/fans/fan-cords/974",
+    "category": "Other"
+  },
+  {
+    "name": "Fans - Finger Guards, Filters & Sleeves",
+    "url": "https://www.digikey.com/en/products/filter/fans/finger-guards-filters-sleeves/221",
+    "category": "Other"
+  },
+  {
+    "name": "Thermal - Accessories",
+    "url": "https://www.digikey.com/en/products/filter/thermal/thermal-accessories/224",
+    "category": "Other"
+  },
+  {
+    "name": "Thermal - Adhesives, Epoxies, Greases, Pastes",
+    "url": "https://www.digikey.com/en/products/filter/thermal/adhesives-epoxies-greases-pastes/220",
+    "category": "Other"
+  },
+  {
+    "name": "Thermal - Heat Pipes, Vapor Chambers",
+    "url": "https://www.digikey.com/en/products/filter/thermal/heat-pipes-vapor-chambers/977",
+    "category": "Other"
+  },
+  {
+    "name": "Thermal - Heat Sinks",
+    "url": "https://www.digikey.com/en/products/filter/thermal/heat-sinks/219",
+    "category": "Other"
+  },
+  {
+    "name": "Thermal - Liquid Cooling",
+    "url": "https://www.digikey.com/en/products/filter/thermal/liquid-cooling-heating/226",
+    "category": "Other"
+  },
+  {
+    "name": "Thermal - Pads, Sheets",
+    "url": "https://www.digikey.com/en/products/filter/thermal/pads-sheets-bridges/218",
+    "category": "Other"
+  },
+  {
+    "name": "Thermal - Thermoelectric, Peltier Assemblies",
+    "url": "https://www.digikey.com/en/products/filter/thermal/thermoelectric-peltier-assemblies/225",
+    "category": "Other"
+  },
+  {
+    "name": "Thermal - Thermoelectric, Peltier Modules",
+    "url": "https://www.digikey.com/en/products/filter/thermal/thermoelectric-peltier-modules/222",
+    "category": "Other"
+  },
+  {
+    "name": "DC Fans",
+    "url": "https://www.digikey.com/en/products/filter/dc-brushless-fans-bldc/217?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbXADYAOSkAXQF9Gg",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits (ICs)",
+    "url": "https://www.digikey.com/en/products/category/integrated-circuits-ics/32",
+    "category": "Other"
+  },
+  {
+    "name": "Audio Special Purpose",
+    "url": "https://www.digikey.com/en/products/filter/audio-special-purpose/741",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Clock/Timing",
+    "url": "https://www.digikey.com/en/products/category/clock-timing/2006",
+    "category": "Other"
+  },
+  {
+    "name": "Data Acquisition",
+    "url": "https://www.digikey.com/en/products/category/data-acquisition/2009",
+    "category": "Other"
+  },
+  {
+    "name": "Embedded",
+    "url": "https://www.digikey.com/en/products/category/embedded/2012",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits (ICs) Kits",
+    "url": "https://www.digikey.com/en/products/filter/integrated-circuits-ics-kits/658",
+    "category": "Other"
+  },
+  {
+    "name": "Interface",
+    "url": "https://www.digikey.com/en/products/category/interface/2016",
+    "category": "Other"
+  },
+  {
+    "name": "Linear",
+    "url": "https://www.digikey.com/en/products/category/linear/2018",
+    "category": "Other"
+  },
+  {
+    "name": "Logic",
+    "url": "https://www.digikey.com/en/products/category/logic/2019",
+    "category": "Other"
+  },
+  {
+    "name": "Memory",
+    "url": "https://www.digikey.com/en/products/category/memory/2020",
+    "category": "Other"
+  },
+  {
+    "name": "Power Management (PMIC)",
+    "url": "https://www.digikey.com/en/products/category/power-management-pmic/2025",
+    "category": "Other"
+  },
+  {
+    "name": "Specialized ICs",
+    "url": "https://www.digikey.com/en/products/filter/specialized-ics/686",
+    "category": "Other"
+  },
+  {
+    "name": "Embedded",
+    "url": "https://www.digikey.com/en/products/category/embedded/2012?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRAFYAGckAsAdhoF0BfNoA",
+    "category": "Other"
+  },
+  {
+    "name": "LED/Optoelectronics",
+    "url": "https://www.digikey.com/en/products/category/optoelectronics/7",
+    "category": "Other"
+  },
+  {
+    "name": "Display Modules - LCD, OLED Character and Numeric",
+    "url": "https://www.digikey.com/en/products/filter/lcd-oled-character-and-numeric/99",
+    "category": "Other"
+  },
+  {
+    "name": "Display Modules - LCD, OLED, Graphic",
+    "url": "https://www.digikey.com/en/products/filter/lcd-oled-graphic/107",
+    "category": "Other"
+  },
+  {
+    "name": "Display Modules - LED Character and Numeric",
+    "url": "https://www.digikey.com/en/products/filter/led-character-and-numeric/92",
+    "category": "Other"
+  },
+  {
+    "name": "Fiber Optics - Transceiver Modules",
+    "url": "https://www.digikey.com/en/products/filter/fiber-optic-transceiver-modules/118",
+    "category": "Other"
+  },
+  {
+    "name": "Infrared, UV, Visible Emitters",
+    "url": "https://www.digikey.com/en/products/filter/led-emitters-infrared-uv-visible/94",
+    "category": "Other"
+  },
+  {
+    "name": "Laser Diodes, Modules",
+    "url": "https://www.digikey.com/en/products/filter/laser-diodes-modules/95",
+    "category": "Other"
+  },
+  {
+    "name": "LED Indication - Discrete",
+    "url": "https://www.digikey.com/en/products/filter/led-indication-discrete/105",
+    "category": "Other"
+  },
+  {
+    "name": "LED Lighting - COBs, Engines, Modules, Strips",
+    "url": "https://www.digikey.com/en/products/filter/led-cobs-engines-modules-strips/111",
+    "category": "Other"
+  },
+  {
+    "name": "LED Lighting - Color",
+    "url": "https://www.digikey.com/en/products/filter/led-color-lighting/125",
+    "category": "Other"
+  },
+  {
+    "name": "LED Lighting - White",
+    "url": "https://www.digikey.com/en/products/filter/led-white-lighting/124",
+    "category": "Other"
+  },
+  {
+    "name": "Optics - Light Pipes",
+    "url": "https://www.digikey.com/en/products/filter/light-pipes/102",
+    "category": "Other"
+  },
+  {
+    "name": "Panel Indicators, Pilot Lights",
+    "url": "https://www.digikey.com/en/products/filter/panel-indicators-pilot-lights/108",
+    "category": "Other"
+  },
+  {
+    "name": "LED Lighting - COBs, Engines, Modules, Strips",
+    "url": "https://www.digikey.com/en/products/filter/led-lighting-cobs-engines-modules-strips/111?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRAE4AGEAXQF8Gg",
+    "category": "Other"
+  },
+  {
+    "name": "Passives",
+    "url": "https://www.digikey.com/en/products/super-category/passives/21",
+    "category": "Other"
+  },
+  {
+    "name": "Capacitors",
+    "url": "https://www.digikey.com/en/products/category/capacitors/3",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Aluminum Electrolytic Capacitors",
+    "url": "https://www.digikey.com/en/products/filter/aluminum-electrolytic-capacitors/58",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Aluminum - Polymer Capacitors",
+    "url": "https://www.digikey.com/en/products/filter/aluminum-polymer-capacitors/69",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Capacitor Networks, Arrays",
+    "url": "https://www.digikey.com/en/products/filter/capacitor-networks-arrays/57",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Ceramic Capacitors",
+    "url": "https://www.digikey.com/en/products/filter/ceramic-capacitors/60",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Electric Double Layer Capacitors (EDLC), Supercapacitors",
+    "url": "https://www.digikey.com/en/products/filter/electric-double-layer-capacitors-edlc-supercapacitors/61",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Film Capacitors",
+    "url": "https://www.digikey.com/en/products/filter/film-capacitors/62",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Mica and PTFE Capacitors",
+    "url": "https://www.digikey.com/en/products/filter/mica-and-ptfe-capacitors/64",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Silicon Capacitors",
+    "url": "https://www.digikey.com/en/products/filter/silicon-capacitors/68",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Tantalum Capacitors",
+    "url": "https://www.digikey.com/en/products/filter/tantalum-capacitors/59",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Tantalum - Polymer Capacitors",
+    "url": "https://www.digikey.com/en/products/filter/tantalum-polymer-capacitors/70",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Thin Film Capacitors",
+    "url": "https://www.digikey.com/en/products/filter/thin-film-capacitors/66",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Trimmers, Variable Capacitors",
+    "url": "https://www.digikey.com/en/products/filter/trimmers-variable-capacitors/65",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Crystals",
+    "url": "https://www.digikey.com/en/products/filter/crystals/171",
+    "category": "Other"
+  },
+  {
+    "name": "Filters",
+    "url": "https://www.digikey.com/en/products/category/filters/36",
+    "category": "Other"
+  },
+  {
+    "name": "Inductors, Coils, Chokes",
+    "url": "https://www.digikey.com/en/products/category/inductors-coils-chokes/4",
+    "category": "Other"
+  },
+  {
+    "name": "Adjustable Inductors",
+    "url": "https://www.digikey.com/en/products/filter/adjustable-inductors/72",
+    "category": "Other"
+  },
+  {
+    "name": "Arrays, Signal Transformers",
+    "url": "https://www.digikey.com/en/products/filter/arrays-signal-transformers/73",
+    "category": "Other"
+  },
+  {
+    "name": "Delay Lines",
+    "url": "https://www.digikey.com/en/products/filter/delay-lines/74",
+    "category": "Other"
+  },
+  {
+    "name": "Fixed Inductors",
+    "url": "https://www.digikey.com/en/products/filter/fixed-inductors/71",
+    "category": "Other"
+  },
+  {
+    "name": "Wireless Charging Coils",
+    "url": "https://www.digikey.com/en/products/filter/wireless-charging-coils/75",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Magnetics - Transformer, Inductor Components",
+    "url": "https://www.digikey.com/en/products/category/magnetics-transformer-inductor-components/46",
+    "category": "Other"
+  },
+  {
+    "name": "Bobbins (Coil Formers), Mounts, Hardware",
+    "url": "https://www.digikey.com/en/products/filter/bobbins-coil-formers-mounts-hardware/935",
+    "category": "Other"
+  },
+  {
+    "name": "Ferrite Cores",
+    "url": "https://www.digikey.com/en/products/filter/ferrite-cores/936",
+    "category": "Other"
+  },
+  {
+    "name": "Magnetic Wire",
+    "url": "https://www.digikey.com/en/products/filter/magnet-wire/934",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Oscillators",
+    "url": "https://www.digikey.com/en/products/category/crystals-oscillators-resonators/12",
+    "category": "Other"
+  },
+  {
+    "name": "Oscillators",
+    "url": "https://www.digikey.com/en/products/filter/oscillators/172",
+    "category": "Other"
+  },
+  {
+    "name": "Pin Configurable/Selectable Oscillators",
+    "url": "https://www.digikey.com/en/products/filter/pin-configurable-selectable-oscillators/176",
+    "category": "Other"
+  },
+  {
+    "name": "Programmable Oscillators",
+    "url": "https://www.digikey.com/en/products/filter/programmable-oscillators/169",
+    "category": "Other"
+  },
+  {
+    "name": "Sockets and Insulators",
+    "url": "https://www.digikey.com/en/products/filter/crystal-oscillator-resonator-accessories/175",
+    "category": "Other"
+  },
+  {
+    "name": "Stand Alone Programmers",
+    "url": "https://www.digikey.com/en/products/filter/stand-alone-programmers/170",
+    "category": "Other"
+  },
+  {
+    "name": "VCOs (Voltage Controlled Oscillators)",
+    "url": "https://www.digikey.com/en/products/filter/vcos-voltage-controlled-oscillators/173",
+    "category": "Other"
+  },
+  {
+    "name": "Potentiometers, Variable Resistors",
+    "url": "https://www.digikey.com/en/products/category/potentiometers-variable-resistors/5",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/76",
+    "category": "Other"
+  },
+  {
+    "name": "Adjustable Power Resistor",
+    "url": "https://www.digikey.com/en/products/filter/adjustable-power-resistor/83",
+    "category": "Other"
+  },
+  {
+    "name": "Rotary Potentiometers, Rheostats",
+    "url": "https://www.digikey.com/en/products/filter/rotary-potentiometers-rheostats/84",
+    "category": "Other"
+  },
+  {
+    "name": "Scale Dials",
+    "url": "https://www.digikey.com/en/products/filter/scale-dials/79",
+    "category": "Other"
+  },
+  {
+    "name": "Slide Potentiometers",
+    "url": "https://www.digikey.com/en/products/filter/slide-potentiometers/78",
+    "category": "Other"
+  },
+  {
+    "name": "Thumbwheel Potentiometers",
+    "url": "https://www.digikey.com/en/products/filter/thumbwheel-potentiometers/77",
+    "category": "Other"
+  },
+  {
+    "name": "Trimmer Potentiometers",
+    "url": "https://www.digikey.com/en/products/filter/trimmer-potentiometers/80",
+    "category": "Other"
+  },
+  {
+    "name": "Value Display Potentiometers",
+    "url": "https://www.digikey.com/en/products/filter/value-display-potentiometers/81",
+    "category": "Other"
+  },
+  {
+    "name": "Resistors",
+    "url": "https://www.digikey.com/en/products/category/resistors/2",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/51",
+    "category": "Other"
+  },
+  {
+    "name": "Chassis Mount Resistors",
+    "url": "https://www.digikey.com/en/products/filter/chassis-mount-resistors/54",
+    "category": "Other"
+  },
+  {
+    "name": "Chip Resistor - Surface Mount",
+    "url": "https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52",
+    "category": "Other"
+  },
+  {
+    "name": "Resistor Networks, Arrays",
+    "url": "https://www.digikey.com/en/products/filter/resistor-networks-arrays/50",
+    "category": "Other"
+  },
+  {
+    "name": "Specialized Resistors",
+    "url": "https://www.digikey.com/en/products/filter/specialized-resistors/55",
+    "category": "Other"
+  },
+  {
+    "name": "Through Hole Resistors",
+    "url": "https://www.digikey.com/en/products/filter/through-hole-resistors/53",
+    "category": "Other"
+  },
+  {
+    "name": "Resonators",
+    "url": "https://www.digikey.com/en/products/filter/resonators/174",
+    "category": "Other"
+  },
+  {
+    "name": "Fixed Inductors",
+    "url": "https://www.digikey.com/en/products/filter/fixed-inductors/71?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRAHYBmAJhAF0BfJoA",
+    "category": "Other"
+  },
+  {
+    "name": "Power",
+    "url": "https://www.digikey.com/en/products/super-category/power-circuit-protection/23",
+    "category": "Other"
+  },
+  {
+    "name": "Battery Products",
+    "url": "https://www.digikey.com/en/products/category/battery-products/6",
+    "category": "Battery Products"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/battery-product-accessories/87",
+    "category": "Other"
+  },
+  {
+    "name": "Batteries Non-Rechargeable (Primary)",
+    "url": "https://www.digikey.com/en/products/filter/batteries-non-rechargeable-primary/90",
+    "category": "Battery Products"
+  },
+  {
+    "name": "Batteries Rechargeable (Secondary)",
+    "url": "https://www.digikey.com/en/products/filter/batteries-rechargeable-secondary/91",
+    "category": "Battery Products"
+  },
+  {
+    "name": "Battery Chargers",
+    "url": "https://www.digikey.com/en/products/filter/battery-chargers/85",
+    "category": "Battery Products"
+  },
+  {
+    "name": "Battery Holders, Clips, Contacts",
+    "url": "https://www.digikey.com/en/products/filter/battery-holders-clips-contacts/86",
+    "category": "Battery Products"
+  },
+  {
+    "name": "Battery Packs",
+    "url": "https://www.digikey.com/en/products/filter/battery-packs/89",
+    "category": "Battery Products"
+  },
+  {
+    "name": "Cigarette Lighter Assemblies",
+    "url": "https://www.digikey.com/en/products/filter/cigarette-lighter-assemblies/88",
+    "category": "Other"
+  },
+  {
+    "name": "Power Supplies",
+    "url": "https://www.digikey.com/en/products/result?s=N4IgTCBcDaIAoHsDuBTATgAgMoFcAOeANgJYoDOIAugL5A",
+    "category": "Other"
+  },
+  {
+    "name": "AC AC Wall Adapters",
+    "url": "https://www.digikey.com/en/products/filter/ac-ac-wall-power-adapters/135",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/external-internal-power-supply-accessories/131",
+    "category": "Other"
+  },
+  {
+    "name": "AC DC Configurable Power Supplies (Factory Assembled)",
+    "url": "https://www.digikey.com/en/products/filter/ac-dc-configurable-power-supplies-factory-assembled/955",
+    "category": "Other"
+  },
+  {
+    "name": "AC DC Configurable Power Supply Chassis",
+    "url": "https://www.digikey.com/en/products/filter/ac-dc-configurable-power-supply-chassis/134",
+    "category": "Other"
+  },
+  {
+    "name": "AC DC Configurable Power Supply Modules",
+    "url": "https://www.digikey.com/en/products/filter/ac-dc-configurable-power-supply-modules/136",
+    "category": "Other"
+  },
+  {
+    "name": "AC DC Converters",
+    "url": "https://www.digikey.com/en/products/filter/ac-dc-converters/133",
+    "category": "Other"
+  },
+  {
+    "name": "AC DC Desktop, Wall Adapters",
+    "url": "https://www.digikey.com/en/products/filter/ac-dc-desktop-wall-power-adapters/130",
+    "category": "Other"
+  },
+  {
+    "name": "DC DC Converters",
+    "url": "https://www.digikey.com/en/products/filter/dc-dc-converters/132",
+    "category": "Other"
+  },
+  {
+    "name": "LED Drivers",
+    "url": "https://www.digikey.com/en/products/filter/led-drivers/137",
+    "category": "Other"
+  },
+  {
+    "name": "Power over Ethernet (PoE)",
+    "url": "https://www.digikey.com/en/products/filter/power-over-ethernet-poe/138",
+    "category": "Other"
+  },
+  {
+    "name": "Solar Cells",
+    "url": "https://www.digikey.com/en/products/filter/solar-cells/514",
+    "category": "Other"
+  },
+  {
+    "name": "Transformers",
+    "url": "https://www.digikey.com/en/products/category/transformers/11",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/161",
+    "category": "Other"
+  },
+  {
+    "name": "Audio Transformers",
+    "url": "https://www.digikey.com/en/products/filter/audio-transformers/162",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Current Sense Transformers",
+    "url": "https://www.digikey.com/en/products/filter/current-sense-transformers/163",
+    "category": "Other"
+  },
+  {
+    "name": "Isolation Transformers and Autotransformers, Step Up, Step Down",
+    "url": "https://www.digikey.com/en/products/filter/isolation-transformers-and-autotransformers-step-up-step-down/167",
+    "category": "Other"
+  },
+  {
+    "name": "Power Transformers",
+    "url": "https://www.digikey.com/en/products/filter/power-transformers/164",
+    "category": "Other"
+  },
+  {
+    "name": "Pulse Transformers",
+    "url": "https://www.digikey.com/en/products/filter/pulse-transformers/166",
+    "category": "Other"
+  },
+  {
+    "name": "Specialty Transformers",
+    "url": "https://www.digikey.com/en/products/filter/specialty-transformers/165",
+    "category": "Other"
+  },
+  {
+    "name": "Switching Converter SMPS Transformers",
+    "url": "https://www.digikey.com/en/products/filter/switching-converter-smps-transformers/168",
+    "category": "Other"
+  },
+  {
+    "name": "DC DC Converters",
+    "url": "https://www.digikey.com/en/products/filter/dc-dc-converters/922?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRABYBOABhAIA4wIBdAX3aA",
+    "category": "Other"
+  },
+  {
+    "name": "RF and Wireless",
+    "url": "https://www.digikey.com/en/products/category/rf-and-wireless/37",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Balun",
+    "url": "https://www.digikey.com/en/products/filter/balun/849",
+    "category": "Other"
+  },
+  {
+    "name": "RF Amplifiers",
+    "url": "https://www.digikey.com/en/products/filter/rf-amplifiers/860",
+    "category": "Audio Products"
+  },
+  {
+    "name": "RF Antennas",
+    "url": "https://www.digikey.com/en/products/filter/rf-antennas/875",
+    "category": "Other"
+  },
+  {
+    "name": "RF Detectors",
+    "url": "https://www.digikey.com/en/products/filter/rf-detectors/862",
+    "category": "Other"
+  },
+  {
+    "name": "RF Directional Coupler",
+    "url": "https://www.digikey.com/en/products/filter/rf-directional-coupler/850",
+    "category": "Other"
+  },
+  {
+    "name": "RF Evaluation and Development Kits, Boards",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-boards/rf-rfid-wireless-evaluation-boards/1165",
+    "category": "Other"
+  },
+  {
+    "name": "RF Mixers",
+    "url": "https://www.digikey.com/en/products/filter/rf-mixers/861",
+    "category": "Other"
+  },
+  {
+    "name": "RF Receiver, Transmitter, and Transceiver Finished Units",
+    "url": "https://www.digikey.com/en/products/filter/rf-receiver-transmitter-and-transceiver-finished-units/873",
+    "category": "Other"
+  },
+  {
+    "name": "RF Shields",
+    "url": "https://www.digikey.com/en/products/filter/rf-shields/867",
+    "category": "Other"
+  },
+  {
+    "name": "RF Switches",
+    "url": "https://www.digikey.com/en/products/filter/rf-switches/865",
+    "category": "Other"
+  },
+  {
+    "name": "RF Transceiver ICs",
+    "url": "https://www.digikey.com/en/products/filter/rf-transceiver-ics/879",
+    "category": "Other"
+  },
+  {
+    "name": "RF Transceiver Modules",
+    "url": "https://www.digikey.com/en/products/filter/rf-transceiver-modules-and-modems/872",
+    "category": "Other"
+  },
+  {
+    "name": "Semiconductors",
+    "url": "https://www.digikey.com/en/products/super-category/semiconductors/27",
+    "category": "Other"
+  },
+  {
+    "name": "Development Boards, Kits, Programmers",
+    "url": "https://www.digikey.com/en/products/category/development-boards-kits-programmers/33",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/783",
+    "category": "Other"
+  },
+  {
+    "name": "Evaluation and Demonstration Boards and Kits",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-boards/evaluation-and-demonstration-boards-and-kits/787",
+    "category": "Other"
+  },
+  {
+    "name": "Evaluation Boards - Analog to Digital Converters (ADCs)",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-boards/analog-to-digital-converters-adcs-evaluation-boards/791",
+    "category": "Other"
+  },
+  {
+    "name": "Evaluation Boards - Embedded - Complex Logic (FPGA, CPLD)",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-boards/embedded-complex-logic-fpga-cpld-evaluation-boards/796",
+    "category": "Other"
+  },
+  {
+    "name": "Evaluation Boards - Embedded - MCU, DSP",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-boards/embedded-mcu-dsp-evaluation-boards/786",
+    "category": "Other"
+  },
+  {
+    "name": "Evaluation Boards - Expansion Boards, Daughter Cards",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-boards/expansion-boards-daughter-cards/797",
+    "category": "Other"
+  },
+  {
+    "name": "Evaluation Boards - LED Drivers",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-boards/led-driver-evaluation-boards/794",
+    "category": "Other"
+  },
+  {
+    "name": "Evaluation Boards - Op Amps",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-boards/op-amp-evaluation-boards/788",
+    "category": "Other"
+  },
+  {
+    "name": "Evaluation Boards - Sensors",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-boards/sensor-evaluation-boards/795",
+    "category": "Other"
+  },
+  {
+    "name": "Programmers, Emulators, and Debuggers",
+    "url": "https://www.digikey.com/en/products/filter/programmers-emulators-and-debuggers/799",
+    "category": "Other"
+  },
+  {
+    "name": "Discrete",
+    "url": "https://www.digikey.com/en/products/category/discrete-semiconductor-products/19",
+    "category": "Other"
+  },
+  {
+    "name": "Diodes - Bridge Rectifiers",
+    "url": "https://www.digikey.com/en/products/filter/diodes/bridge-rectifiers/299",
+    "category": "Other"
+  },
+  {
+    "name": "Diodes - Rectifiers - Arrays",
+    "url": "https://www.digikey.com/en/products/filter/diodes/rectifiers/diode-arrays/286",
+    "category": "Other"
+  },
+  {
+    "name": "Diodes - Rectifiers - Single",
+    "url": "https://www.digikey.com/en/products/filter/diodes/rectifiers/single-diodes/280",
+    "category": "Other"
+  },
+  {
+    "name": "Diodes - RF",
+    "url": "https://www.digikey.com/en/products/filter/diodes/rf-diodes/284",
+    "category": "Other"
+  },
+  {
+    "name": "Diodes - Zener - Single",
+    "url": "https://www.digikey.com/en/products/filter/diodes/zener/single-zener-diodes/287",
+    "category": "Other"
+  },
+  {
+    "name": "Thyristors - SCRs",
+    "url": "https://www.digikey.com/en/products/filter/thyristors/scrs/281",
+    "category": "Other"
+  },
+  {
+    "name": "Thyristors - TRIACs",
+    "url": "https://www.digikey.com/en/products/filter/thyristors/triacs/300",
+    "category": "Other"
+  },
+  {
+    "name": "Transistors - Bipolar (BJT) - Arrays",
+    "url": "https://www.digikey.com/en/products/filter/transistors/bipolar-bjt/bipolar-transistor-arrays/277",
+    "category": "Other"
+  },
+  {
+    "name": "Transistors - Bipolar (BJT) - RF",
+    "url": "https://www.digikey.com/en/products/filter/transistors/bipolar-bjt/bipolar-rf-transistors/283",
+    "category": "Other"
+  },
+  {
+    "name": "Transistors - Bipolar (BJT) Single",
+    "url": "https://www.digikey.com/en/products/filter/transistors/bipolar-bjt/single-bipolar-transistors/276",
+    "category": "Other"
+  },
+  {
+    "name": "Transistors - FETs, MOSFETs - Arrays",
+    "url": "https://www.digikey.com/en/products/filter/transistors/fets-mosfets/fet-mosfet-arrays/289",
+    "category": "Other"
+  },
+  {
+    "name": "Transistors - FETs, MOSFETs - Single",
+    "url": "https://www.digikey.com/en/products/filter/transistors/fets-mosfets/single-fets-mosfets/278",
+    "category": "Other"
+  },
+  {
+    "name": "Transistors - IGBTs - Single",
+    "url": "https://www.digikey.com/en/products/filter/transistors/igbts/single-igbts/279",
+    "category": "Other"
+  },
+  {
+    "name": "Transistors - JFETs",
+    "url": "https://www.digikey.com/en/products/filter/transistors/jfets/288",
+    "category": "Other"
+  },
+  {
+    "name": "Embedded Computers",
+    "url": "https://www.digikey.com/en/products/category/embedded-computers/45",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/embedded-computer-accessories/931",
+    "category": "Other"
+  },
+  {
+    "name": "Interface Boards",
+    "url": "https://www.digikey.com/en/products/filter/embedded-computer-interface-boards/932",
+    "category": "Other"
+  },
+  {
+    "name": "Single Board Computers (SBCs)",
+    "url": "https://www.digikey.com/en/products/filter/single-board-computers-sbcs/933",
+    "category": "Other"
+  },
+  {
+    "name": "Isolators",
+    "url": "https://www.digikey.com/en/products/category/isolators/39",
+    "category": "Other"
+  },
+  {
+    "name": "Digital Isolators",
+    "url": "https://www.digikey.com/en/products/filter/digital-isolators/901",
+    "category": "Other"
+  },
+  {
+    "name": "Isolators - Gate Drivers",
+    "url": "https://www.digikey.com/en/products/filter/isolators-gate-drivers/906",
+    "category": "Other"
+  },
+  {
+    "name": "Optoisolators - Logic Output",
+    "url": "https://www.digikey.com/en/products/filter/optocouplers-optoisolators/logic-output-optoisolators/902",
+    "category": "Other"
+  },
+  {
+    "name": "Optoisolators - Transistor, Photovoltaic Output",
+    "url": "https://www.digikey.com/en/products/filter/optocouplers-optoisolators/transistor-photovoltaic-output-optoisolators/903",
+    "category": "Other"
+  },
+  {
+    "name": "Optoisolators - Triac, SCR Output",
+    "url": "https://www.digikey.com/en/products/filter/optocouplers-optoisolators/triac-scr-output-optoisolators/904",
+    "category": "Other"
+  },
+  {
+    "name": "Special Purpose",
+    "url": "https://www.digikey.com/en/products/filter/special-purpose-isolators/905",
+    "category": "Other"
+  },
+  {
+    "name": "Linear - Amplifiers - Instrumentation, OP Amps, Buffer Amps",
+    "url": "https://www.digikey.com/en/products/filter/linear-amplifiers-instrumentation-op-amps-buffer-amps/687?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRACYBOANhAF0BfJoA",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25",
+    "category": "Other"
+  },
+  {
+    "name": "Current Sensors",
+    "url": "https://www.digikey.com/en/products/filter/current-sensors/525",
+    "category": "Other"
+  },
+  {
+    "name": "Encoders",
+    "url": "https://www.digikey.com/en/products/filter/encoders/507",
+    "category": "Other"
+  },
+  {
+    "name": "Humidity, Moisture Sensors",
+    "url": "https://www.digikey.com/en/products/filter/humidity-moisture-sensors/529",
+    "category": "Other"
+  },
+  {
+    "name": "Image Sensors, Camera",
+    "url": "https://www.digikey.com/en/products/filter/optical-sensors/image-sensors-camera/532",
+    "category": "Other"
+  },
+  {
+    "name": "Magnetic Sensors - Linear, Compass (ICs)",
+    "url": "https://www.digikey.com/en/products/filter/magnetic-sensors/linear-compass-ics/554",
+    "category": "Other"
+  },
+  {
+    "name": "Motion Sensors - Accelerometers",
+    "url": "https://www.digikey.com/en/products/filter/motion-sensors/accelerometers/515",
+    "category": "Other"
+  },
+  {
+    "name": "Optical Sensors - Ambient Light, IR, UV Sensors",
+    "url": "https://www.digikey.com/en/products/filter/optical-sensors/ambient-light-ir-uv-sensors/536",
+    "category": "Other"
+  },
+  {
+    "name": "Optical Sensors - Photodiodes",
+    "url": "https://www.digikey.com/en/products/filter/optical-sensors/photodiodes/543",
+    "category": "Other"
+  },
+  {
+    "name": "Position Sensors - Angle, Linear Position Measuring",
+    "url": "https://www.digikey.com/en/products/filter/position-sensors/angle-linear-position-measuring/549",
+    "category": "Other"
+  },
+  {
+    "name": "Pressure Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/filter/pressure-sensors-transducers/512",
+    "category": "Other"
+  },
+  {
+    "name": "Temperature Sensors - Analog and Digital Output",
+    "url": "https://www.digikey.com/en/products/filter/temperature-sensors/analog-and-digital-output/518",
+    "category": "Other"
+  },
+  {
+    "name": "Temperature Sensors - NTC Thermistors",
+    "url": "https://www.digikey.com/en/products/filter/temperature-sensors/ntc-thermistors/508",
+    "category": "Other"
+  },
+  {
+    "name": "Humidity, Moisture Sensors",
+    "url": "https://www.digikey.com/en/products/filter/humidity-moisture-sensors/529?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbXADYAWAThAF0BfJoA",
+    "category": "Other"
+  },
+  {
+    "name": "Test and Measurement",
+    "url": "https://www.digikey.com/en/products/category/test-and-measurement/29",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/test-and-measurement-accessories/613",
+    "category": "Other"
+  },
+  {
+    "name": "Equipment - Multimeters",
+    "url": "https://www.digikey.com/en/products/filter/test-equipment/multimeters/615",
+    "category": "Other"
+  },
+  {
+    "name": "Equipment - Oscilloscopes",
+    "url": "https://www.digikey.com/en/products/filter/test-equipment/oscilloscopes/614",
+    "category": "Other"
+  },
+  {
+    "name": "Equipment - Power Supplies (Test, Bench)",
+    "url": "https://www.digikey.com/en/products/filter/test-equipment/power-supplies-test-bench/633",
+    "category": "Other"
+  },
+  {
+    "name": "Equipment - Specialty",
+    "url": "https://www.digikey.com/en/products/filter/test-equipment/specialty-equipment/618",
+    "category": "Other"
+  },
+  {
+    "name": "Test Clips - Alligator, Crocodile, Heavy Duty",
+    "url": "https://www.digikey.com/en/products/filter/test-leads/alligator-crocodile-heavy-duty-clips/623",
+    "category": "Other"
+  },
+  {
+    "name": "Test Clips - Grabbers, Hooks",
+    "url": "https://www.digikey.com/en/products/filter/test-leads/grabbers-hooks/620",
+    "category": "Other"
+  },
+  {
+    "name": "Test Leads - Banana, Meter Interface",
+    "url": "https://www.digikey.com/en/products/filter/test-leads/banana-meter-interface/627",
+    "category": "Other"
+  },
+  {
+    "name": "Test Leads - BNC Interface",
+    "url": "https://www.digikey.com/en/products/filter/test-leads/bnc-interface/625",
+    "category": "Other"
+  },
+  {
+    "name": "Test Leads - Jumper, Specialty",
+    "url": "https://www.digikey.com/en/products/filter/test-leads/jumper-specialty/626",
+    "category": "Other"
+  },
+  {
+    "name": "Test Leads - Oscilloscope Probes",
+    "url": "https://www.digikey.com/en/products/filter/test-leads/oscilloscope-probes/629",
+    "category": "Other"
+  },
+  {
+    "name": "Test Points",
+    "url": "https://www.digikey.com/en/products/filter/test-points/616",
+    "category": "Other"
+  },
+  {
+    "name": "Test Probe Tips",
+    "url": "https://www.digikey.com/en/products/filter/test-probe-tips/622",
+    "category": "Other"
+  },
+  {
+    "name": "Equipment - Oscilloscopes",
+    "url": "https://www.digikey.com/en/products/filter/equipment-oscilloscopes/614?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbXDAGYKQBdAXwaA",
+    "category": "Other"
+  },
+  {
+    "name": "Tools",
+    "url": "https://www.digikey.com/en/products/category/tools/17",
+    "category": "Other"
+  },
+  {
+    "name": "Crimpers - Crimp Heads, Die Sets",
+    "url": "https://www.digikey.com/en/products/filter/crimpers-applicators-presses/crimp-heads-die-sets/232",
+    "category": "Other"
+  },
+  {
+    "name": "Crimpers, Applicators, Presses",
+    "url": "https://www.digikey.com/en/products/filter/crimpers-applicators-presses/crimpers-applicators-presses/228",
+    "category": "Other"
+  },
+  {
+    "name": "Excavators, Hooks, Picks, Probes, Tuning Tools",
+    "url": "https://www.digikey.com/en/products/filter/excavators-hooks-picks-probes-tuning-tools/241",
+    "category": "Other"
+  },
+  {
+    "name": "Insertion, Extraction",
+    "url": "https://www.digikey.com/en/products/filter/insertion-extraction/229",
+    "category": "Other"
+  },
+  {
+    "name": "Optical Inspection Equipment",
+    "url": "https://www.digikey.com/en/products/category/optical-inspection-equipment/42",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/optical-inspection-accessories/912",
+    "category": "Other"
+  },
+  {
+    "name": "Arms, Mounts, Stands",
+    "url": "https://www.digikey.com/en/products/filter/arms-mounts-stands/915",
+    "category": "Other"
+  },
+  {
+    "name": "Cameras",
+    "url": "https://www.digikey.com/en/products/filter/cameras/913",
+    "category": "Other"
+  },
+  {
+    "name": "Eyepieces, Lenses",
+    "url": "https://www.digikey.com/en/products/filter/eyepieces-lenses/916",
+    "category": "Other"
+  },
+  {
+    "name": "Illumination Sources",
+    "url": "https://www.digikey.com/en/products/filter/illumination-sources/920",
+    "category": "Other"
+  },
+  {
+    "name": "Lamps - Magnifying, Task",
+    "url": "https://www.digikey.com/en/products/filter/lamps-magnifying-task/917",
+    "category": "Other"
+  },
+  {
+    "name": "Loupes, Magnifiers",
+    "url": "https://www.digikey.com/en/products/filter/loupes-magnifiers/918",
+    "category": "Other"
+  },
+  {
+    "name": "Microscopes",
+    "url": "https://www.digikey.com/en/products/filter/microscopes/914",
+    "category": "Other"
+  },
+  {
+    "name": "Video Inspection Systems",
+    "url": "https://www.digikey.com/en/products/filter/video-inspection-systems/919",
+    "category": "Other"
+  },
+  {
+    "name": "Prototyping, Fabrication Products",
+    "url": "https://www.digikey.com/en/products/category/prototyping-fabrication-products/30",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/accessories/635",
+    "category": "Other"
+  },
+  {
+    "name": "Adapter, Breakout Boards",
+    "url": "https://www.digikey.com/en/products/filter/adapter-breakout-boards/643",
+    "category": "Other"
+  },
+  {
+    "name": "Card Extenders",
+    "url": "https://www.digikey.com/en/products/filter/card-extenders/641",
+    "category": "Other"
+  },
+  {
+    "name": "Coating, Grease, Repair",
+    "url": "https://www.digikey.com/en/products/filter/coating-grease-repair/642",
+    "category": "Other"
+  },
+  {
+    "name": "Drill Bits, End Mills",
+    "url": "https://www.digikey.com/en/products/filter/drill-bits-end-mills/644",
+    "category": "Other"
+  },
+  {
+    "name": "Etching and Fabrication Equipment",
+    "url": "https://www.digikey.com/en/products/filter/etching-and-fabrication-equipment/639",
+    "category": "Other"
+  },
+  {
+    "name": "Jumper Wire",
+    "url": "https://www.digikey.com/en/products/filter/jumper-wire/640",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "PCB Routers, Milling Machines",
+    "url": "https://www.digikey.com/en/products/filter/pcb-routers-milling-machines/972",
+    "category": "Other"
+  },
+  {
+    "name": "Prototype Boards Perforated",
+    "url": "https://www.digikey.com/en/products/filter/prototype-boards-perforated/636",
+    "category": "Other"
+  },
+  {
+    "name": "Prototype Boards Unperforated",
+    "url": "https://www.digikey.com/en/products/filter/prototype-boards-unperforated/637",
+    "category": "Other"
+  },
+  {
+    "name": "Solderless Breadboards",
+    "url": "https://www.digikey.com/en/products/filter/solderless-breadboards/638",
+    "category": "Other"
+  },
+  {
+    "name": "Screw and Nut Drivers",
+    "url": "https://www.digikey.com/en/products/filter/screwdrivers-nut-drivers-and-sets/screw-and-nut-drivers/239",
+    "category": "Other"
+  },
+  {
+    "name": "Screw and Nut Drivers - Sets",
+    "url": "https://www.digikey.com/en/products/filter/screwdrivers-nut-drivers-and-sets/screw-and-nut-driver-sets/249",
+    "category": "Other"
+  },
+  {
+    "name": "Soldering, Desoldering, Rework Products",
+    "url": "https://www.digikey.com/en/products/category/soldering-desoldering-rework-products/18",
+    "category": "Other"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/soldering-desoldering-rework-accessories/261",
+    "category": "Other"
+  },
+  {
+    "name": "Desoldering Braid, Wick, Pumps",
+    "url": "https://www.digikey.com/en/products/filter/desoldering-braid-wick-pumps/265",
+    "category": "Other"
+  },
+  {
+    "name": "Dispensers, Dispenser Tips",
+    "url": "https://www.digikey.com/en/products/filter/dispensing-equipment/tips-nozzles/271",
+    "category": "Other"
+  },
+  {
+    "name": "Flux, Flux Remover",
+    "url": "https://www.digikey.com/en/products/filter/flux-flux-remover/266",
+    "category": "Other"
+  },
+  {
+    "name": "Fume, Smoke Extraction",
+    "url": "https://www.digikey.com/en/products/filter/fume-smoke-extraction/269",
+    "category": "Other"
+  },
+  {
+    "name": "Holders, Stands",
+    "url": "https://www.digikey.com/en/products/filter/holders-stands/267",
+    "category": "Other"
+  },
+  {
+    "name": "Solder",
+    "url": "https://www.digikey.com/en/products/filter/solder/262",
+    "category": "Other"
+  },
+  {
+    "name": "Solder Sponges, Tip Cleaners",
+    "url": "https://www.digikey.com/en/products/filter/solder-sponges-tip-cleaners/263",
+    "category": "Other"
+  },
+  {
+    "name": "Solder Stencils, Templates",
+    "url": "https://www.digikey.com/en/products/filter/solder-stencils-templates/272",
+    "category": "Other"
+  },
+  {
+    "name": "Soldering Irons, Tweezers, Handles",
+    "url": "https://www.digikey.com/en/products/filter/soldering-irons-tweezers-handles/268",
+    "category": "Other"
+  },
+  {
+    "name": "Soldering, Desoldering, Rework Stations",
+    "url": "https://www.digikey.com/en/products/filter/soldering-desoldering-rework-stations/264",
+    "category": "Other"
+  },
+  {
+    "name": "Soldering, Desoldering, Rework Tips, Nozzles",
+    "url": "https://www.digikey.com/en/products/filter/soldering-desoldering-rework-tips-nozzles/270",
+    "category": "Other"
+  },
+  {
+    "name": "Static Control, ESD, Clean Room Products",
+    "url": "https://www.digikey.com/en/products/category/anti-static-esd-clean-room-products/28",
+    "category": "Anti-Static, ESD, Clean Room Products"
+  },
+  {
+    "name": "Accessories",
+    "url": "https://www.digikey.com/en/products/filter/anti-static-esd-clean-room-accessories/603",
+    "category": "Other"
+  },
+  {
+    "name": "Clean Room Swabs and Brushes",
+    "url": "https://www.digikey.com/en/products/filter/clean-room-swabs-and-brushes/611",
+    "category": "Anti-Static, ESD, Clean Room Products"
+  },
+  {
+    "name": "Clean Room Treatments, Cleaners, Wipes",
+    "url": "https://www.digikey.com/en/products/filter/clean-room-treatments-cleaners-wipes/608",
+    "category": "Anti-Static, ESD, Clean Room Products"
+  },
+  {
+    "name": "Ionizer Equipment",
+    "url": "https://www.digikey.com/en/products/filter/ionizer-equipment/609",
+    "category": "Other"
+  },
+  {
+    "name": "Monitors, Testers",
+    "url": "https://www.digikey.com/en/products/filter/monitors-testers/612",
+    "category": "Other"
+  },
+  {
+    "name": "Static Control Clothing",
+    "url": "https://www.digikey.com/en/products/filter/anti-static-esd-clothing/610",
+    "category": "Other"
+  },
+  {
+    "name": "Static Control Device Containers",
+    "url": "https://www.digikey.com/en/products/filter/anti-static-esd-device-containers/607",
+    "category": "Other"
+  },
+  {
+    "name": "Static Control Grounding Cords, Straps",
+    "url": "https://www.digikey.com/en/products/filter/anti-static-esd-straps-grounding-cords/604",
+    "category": "Other"
+  },
+  {
+    "name": "Static Control Grounding Mats",
+    "url": "https://www.digikey.com/en/products/filter/anti-static-esd-grounding-mats/606",
+    "category": "Other"
+  },
+  {
+    "name": "Static Control Shielding Bags, Materials",
+    "url": "https://www.digikey.com/en/products/filter/anti-static-esd-bags-materials/605",
+    "category": "Other"
+  },
+  {
+    "name": "Specialized Tools",
+    "url": "https://www.digikey.com/en/products/filter/specialized-tools/233",
+    "category": "Other"
+  },
+  {
+    "name": "Tweezers",
+    "url": "https://www.digikey.com/en/products/filter/tweezers/240",
+    "category": "Other"
+  },
+  {
+    "name": "Wire Cutters",
+    "url": "https://www.digikey.com/en/products/filter/wire-cutters/234",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Wire Strippers and Accessories",
+    "url": "https://www.digikey.com/en/products/filter/wire-strippers-and-accessories/230",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Tools",
+    "url": "https://www.digikey.com/en/products/category/tools/17?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbXAHYAWAJhAF0BfJoA",
+    "category": "Other"
+  },
+  {
+    "name": "Cable Assemblies",
+    "url": "https://www.digikey.com/en/products/category/cable-assemblies/21?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4AnCALoC%2BNQA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cables, Wires",
+    "url": "https://www.digikey.com/en/products/category/cables-wires/22?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4AnCALoC%2BNQA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cables, Wires - Management",
+    "url": "https://www.digikey.com/en/products/category/cables-wires-management/23?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4AnCALoC%2BNQA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Connectors, Interconnects",
+    "url": "https://www.digikey.com/en/products/category/connectors-interconnects/20?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4AnCALoC%2BNQA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Hardware, Fasteners, Accessories",
+    "url": "https://www.digikey.com/en/products/category/hardware-fasteners-accessories/26?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4AnCALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "RF/IF and RFID",
+    "url": "https://www.digikey.com/en/products/category/rf-if-and-rfid/37?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4AnCALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "Tapes, Adhesives, Materials",
+    "url": "https://www.digikey.com/en/products/category/tapes-adhesives-materials/40?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4AnCALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "Tools",
+    "url": "https://www.digikey.com/en/products/category/tools/17?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4AnCALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "Circuit Protection",
+    "url": "https://www.digikey.com/en/products/category/circuit-protection/9?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIArAAykgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Discrete Semiconductor Products",
+    "url": "https://www.digikey.com/en/products/category/discrete-semiconductor-products/19?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIArAAykgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits (ICs)",
+    "url": "https://www.digikey.com/en/products/category/integrated-circuits-ics/32?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIArAAykgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Isolators",
+    "url": "https://www.digikey.com/en/products/category/isolators/39?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIArAAykgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Power Supplies - Board Mount",
+    "url": "https://www.digikey.com/en/products/category/power-supplies-board-mount/43?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIArAAykgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "RF/IF and RFID",
+    "url": "https://www.digikey.com/en/products/category/rf-if-and-rfid/37?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIArAAykgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIArAAykgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Test and Measurement",
+    "url": "https://www.digikey.com/en/products/category/test-and-measurement/29?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIArAAykgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Boxes, Enclosures, Racks",
+    "url": "https://www.digikey.com/en/products/category/boxes-enclosures-racks/27?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4AzAKwgC6Avo0A",
+    "category": "Other"
+  },
+  {
+    "name": "Cable Assemblies",
+    "url": "https://www.digikey.com/en/products/category/cable-assemblies/21?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4AzAKwgC6Avo0A",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cables, Wires",
+    "url": "https://www.digikey.com/en/products/category/cables-wires/22?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4AzAKwgC6AvoTAEyIgqQAuATgK4HEyIGg3r0gA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cables, Wires - Management",
+    "url": "https://www.digikey.com/en/products/category/cables-wires-management/23?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4AzAKwgC6AvoTAEyIgqQAuATgK4HEyIGg3r0gA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Connectors, Interconnects",
+    "url": "https://www.digikey.com/en/products/category/connectors-interconnects/20?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4AzAKwgC6Avo0A",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Magnetics - Transformer, Inductor Components",
+    "url": "https://www.digikey.com/en/products/category/magnetics-transformer-inductor-components/46?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4AzAKwgC6Avo0A",
+    "category": "Other"
+  },
+  {
+    "name": "Power Line Filter Modules",
+    "url": "https://www.digikey.com/en/products/filter/power-line-filter-modules/838?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbXAAYAmEAXQF8Gg",
+    "category": "Other"
+  },
+  {
+    "name": "Power Supplies - Board Mount",
+    "url": "https://www.digikey.com/en/products/category/power-supplies-board-mount/43?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4ADAEwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Power Supplies - External/Internal (Off-Board)",
+    "url": "https://www.digikey.com/en/products/category/power-supplies-external-internal-off-board/8?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4ADAEwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Circuit Protection",
+    "url": "https://www.digikey.com/en/products/category/circuit-protection/9?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAzBALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "Crystals, Oscillators, Resonators",
+    "url": "https://www.digikey.com/en/products/category/crystals-oscillators-resonators/12?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAzBALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "Development Boards, Kits, Programmers",
+    "url": "https://www.digikey.com/en/products/category/development-boards-kits-programmers/33?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAzBALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "Discrete Semiconductor Products",
+    "url": "https://www.digikey.com/en/products/category/discrete-semiconductor-products/19?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAzBALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits (ICs)",
+    "url": "https://www.digikey.com/en/products/category/integrated-circuits-ics/32?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAzBALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "RF/IF and RFID",
+    "url": "https://www.digikey.com/en/products/category/rf-if-and-rfid/37?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAzBALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAzBALoC%2BNQA",
+    "category": "Other"
+  },
+  {
+    "name": "Crystals, Oscillators, Resonators",
+    "url": "https://www.digikey.com/en/products/category/crystals-oscillators-resonators/12?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4ArAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Development Boards, Kits, Programmers",
+    "url": "https://www.digikey.com/en/products/category/development-boards-kits-programmers/33?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4ArAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Discrete Semiconductor Products",
+    "url": "https://www.digikey.com/en/products/category/discrete-semiconductor-products/19?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4ArAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits (ICs)",
+    "url": "https://www.digikey.com/en/products/category/integrated-circuits-ics/32?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4ArAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Maker/DIY, Educational",
+    "url": "https://www.digikey.com/en/products/category/maker-diy-educational/47?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4ArAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "RF/IF and RFID",
+    "url": "https://www.digikey.com/en/products/category/rf-if-and-rfid/37?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4ArAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4ArAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Test and Measurement",
+    "url": "https://www.digikey.com/en/products/filter/equipment-specialty/618?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4ArAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Circuit Protection",
+    "url": "https://www.digikey.com/en/products/category/circuit-protection/9?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4A7AEwUgC6Avk0A",
+    "category": "Other"
+  },
+  {
+    "name": "Development Boards, Kits, Programmers",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-and-demonstration-boards-and-kits/787?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4A7AEwUgC6Avk0A",
+    "category": "Other"
+  },
+  {
+    "name": "Discrete Semiconductor Products",
+    "url": "https://www.digikey.com/en/products/category/discrete-semiconductor-products/19?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4A7AEykgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Filters",
+    "url": "https://www.digikey.com/en/products/category/filters/36?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4A7AEwUgC6Avk0A",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits (ICs)",
+    "url": "https://www.digikey.com/en/products/category/integrated-circuits-ics/32?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDa4A7AEwUgC6Avk0A",
+    "category": "Other"
+  },
+  {
+    "name": "Kits",
+    "url": "https://www.digikey.com/en/products/filter/evaluation-and-demonstration-boards-and-kits/787?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDa4A7AEykgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Cable Assemblies",
+    "url": "https://www.digikey.com/en/products/category/cable-assemblies/21?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzAJwiFwAM9NhY9ALAKy0gBMFAbCAC6AXzFA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Connectors, Interconnects",
+    "url": "https://www.digikey.com/en/products/category/connectors-interconnects/20?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzAJwiFwAM9NhY9ALAKy0gBMFAbCAC6AXzFA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Fans, Thermal Management",
+    "url": "https://www.digikey.com/en/products/category/fans-thermal-management/16?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzAJwiFwAM9NhY9ALAKy0gBMFAbCAC6AXzFA",
+    "category": "Other"
+  },
+  {
+    "name": "Optoelectronics",
+    "url": "https://www.digikey.com/en/products/category/optoelectronics/7?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzAJwiFwAM9NhY9ALAKy0gBMFAbCAC6AXzFA",
+    "category": "Other"
+  },
+  {
+    "name": "Relays",
+    "url": "https://www.digikey.com/en/products/category/relays/14?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzAJwiFwAM9NhY9ALAKy0gBMFAbCAC6AXzFA",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzAJwiFwAM9NhY9ALAKy0gBMFAbCAC6AXzFA",
+    "category": "Other"
+  },
+  {
+    "name": "Switches",
+    "url": "https://www.digikey.com/en/products/category/switches/15?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzAJwiFwAM9NhY9ALAKy0gBMFAbCAC6AXzFA",
+    "category": "Other"
+  },
+  {
+    "name": "Tools",
+    "url": "https://www.digikey.com/en/products/category/tools/17?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzAJwiFwAM9NhY9ALAKy0gBMFAbCAC6AXzFA",
+    "category": "Other"
+  },
+  {
+    "name": "View All",
+    "url": "https://www.digikey.com/en/products/?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzAJwiFwAM9NhY9ALAKy0gBMFAbCAC6AXzFA",
+    "category": "Other"
+  },
+  {
+    "name": "Circuit Protection",
+    "url": "https://www.digikey.com/en/products/category/circuit-protection/9?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIALABzkgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Development Boards, Kits, Programmers",
+    "url": "https://www.digikey.com/en/products/category/development-boards-kits-programmers/33?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIALABzkgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Discrete Semiconductor Products",
+    "url": "https://www.digikey.com/en/products/category/discrete-semiconductor-products/19?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIALABzkgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits",
+    "url": "https://www.digikey.com/en/products/category/integrated-circuits-ics/32?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIALABzkgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Isolators",
+    "url": "https://www.digikey.com/en/products/category/isolators/39?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIALABzkgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Optoelectronics",
+    "url": "https://www.digikey.com/en/products/category/optoelectronics/7?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIALABzkgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "RF/IF and RFID",
+    "url": "https://www.digikey.com/en/products/category/rf-if-and-rfid/37?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIALABzkgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIALABzkgC6AvvUA",
+    "category": "Other"
+  },
+  {
+    "name": "Cable Assemblies",
+    "url": "https://www.digikey.com/en/products/category/cable-assemblies/21?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRACYBOADhAF0BfJoA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cables, Wires",
+    "url": "https://www.digikey.com/en/products/category/cables-wires/22?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRACYBOADhAF0BfJoA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cables, Wires - Management",
+    "url": "https://www.digikey.com/en/products/category/cables-wires-management/23?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRACYBOADhAF0BfJoA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Connectors, Interconnects",
+    "url": "https://www.digikey.com/en/products/category/connectors-interconnects/20?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRACYBOADhAF0BfJoA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Labels, Signs, Barriers, Identification",
+    "url": "https://www.digikey.com/en/products/category/labels-signs-barriers-identification/980?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRACYBOADhAF0BfJoA",
+    "category": "Other"
+  },
+  {
+    "name": "Tools",
+    "url": "https://www.digikey.com/en/products/category/tools/17?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRACYBOADhAF0BfJoA",
+    "category": "Other"
+  },
+  {
+    "name": "Circuit Protection",
+    "url": "https://www.digikey.com/en/products/filter/tvs-diodes/144?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIATAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Development Boards, Kits, Programmers",
+    "url": "https://www.digikey.com/en/products/category/development-boards-kits-programmers/33?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIATAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Discrete Semiconductor Products",
+    "url": "https://www.digikey.com/en/products/category/discrete-semiconductor-products/19?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIATAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits (ICs)",
+    "url": "https://www.digikey.com/en/products/category/integrated-circuits-ics/32?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIATAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Isolators",
+    "url": "https://www.digikey.com/en/products/category/isolators/39?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIATAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Power Supplies - Board Mount",
+    "url": "https://www.digikey.com/en/products/filter/dc-dc-converters/922?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIATAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "RF/IF and RFID",
+    "url": "https://www.digikey.com/en/products/category/rf-if-and-rfid/37?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIATAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIATAAwgC6AvnUA",
+    "category": "Other"
+  },
+  {
+    "name": "Capacitors",
+    "url": "https://www.digikey.com/en/products/category/capacitors/3?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAHACwBsIAugL4NA",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Development Boards, Kits, Programmers",
+    "url": "https://www.digikey.com/en/products/category/development-boards-kits-programmers/33?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAHACwBsIAugL4NA",
+    "category": "Other"
+  },
+  {
+    "name": "Discrete Semiconductor Products",
+    "url": "https://www.digikey.com/en/products/category/discrete-semiconductor-products/19?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAHACwBsIAugL4NA",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits (ICs)",
+    "url": "https://www.digikey.com/en/products/category/integrated-circuits-ics/32?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAHACwBsIAugL4NA",
+    "category": "Other"
+  },
+  {
+    "name": "Optoelectronics",
+    "url": "https://www.digikey.com/en/products/category/optoelectronics/7?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAHACwBsIAugL4NA",
+    "category": "Other"
+  },
+  {
+    "name": "Power Supplies - Board Mount",
+    "url": "https://www.digikey.com/en/products/category/power-supplies-board-mount/43?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAHACwBsIAugL4NA",
+    "category": "Other"
+  },
+  {
+    "name": "RF/IF and RFID",
+    "url": "https://www.digikey.com/en/products/category/rf-if-and-rfid/37?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAHACwBsIAugL4NA",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQdIDGUAuAnArgUwDQgPZQDaIAHACwBsIAugL4NA",
+    "category": "Other"
+  },
+  {
+    "name": "Crystals, Oscillators, Resonators",
+    "url": "https://www.digikey.com/en/products/category/crystals-oscillators-resonators/12?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzBQGwiFgCsctAugL4dA",
+    "category": "Other"
+  },
+  {
+    "name": "Development Boards, Kits, Programmers",
+    "url": "https://www.digikey.com/en/products/category/development-boards-kits-programmers/33?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzBQGwiFgCsctAugL4dA",
+    "category": "Other"
+  },
+  {
+    "name": "Embedded - Microcontrollers",
+    "url": "https://www.digikey.com/en/products/filter/embedded-microcontrollers/685?s=N4IgjCBcoLQdIDGUBmBDANgZwKYBoQB7KAbRAGZyA2EAXQF9Gg",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits (ICs)",
+    "url": "https://www.digikey.com/en/products/category/integrated-circuits-ics/32?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzBQGwiFgCsctAugL4dA",
+    "category": "Other"
+  },
+  {
+    "name": "Isolators",
+    "url": "https://www.digikey.com/en/products/category/isolators/39?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzBQGwiFgCsctAugL4dA",
+    "category": "Other"
+  },
+  {
+    "name": "RF/IF and RFID",
+    "url": "https://www.digikey.com/en/products/category/rf-if-and-rfid/37?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzBQGwiFgCsctAugL4dA",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIAzBQGwiFgCsctAugL4dA",
+    "category": "Other"
+  },
+  {
+    "name": "Audio Products",
+    "url": "https://www.digikey.com/en/products/filter/microphones/158?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALAJwDsIhcADFY-eGAMwIC6Avv0A",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Battery Products",
+    "url": "https://www.digikey.com/en/products/filter/batteries-rechargeable-secondary/91?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALAJwDsIhcADFY-eGAMwIC6Avv0A",
+    "category": "Battery Products"
+  },
+  {
+    "name": "Circuit Protection",
+    "url": "https://www.digikey.com/en/products/category/circuit-protection/9?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALAJwDsIhcADFY-eGAMwIC6Avv0A",
+    "category": "Other"
+  },
+  {
+    "name": "Development Boards, Kits, Programmers",
+    "url": "https://www.digikey.com/en/products/category/development-boards-kits-programmers/33?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALAJwDsIhcADFY-eGAMwIC6Avv0A",
+    "category": "Other"
+  },
+  {
+    "name": "Discrete Semiconductor Products",
+    "url": "https://www.digikey.com/en/products/category/discrete-semiconductor-products/19?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALAJwDsIhcADFY-eGAMwIC6Avv0A",
+    "category": "Other"
+  },
+  {
+    "name": "Integrated Circuits (ICs)",
+    "url": "https://www.digikey.com/en/products/category/integrated-circuits-ics/32?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALAJwDsIhcADFY-eGAMwIC6Avv0A",
+    "category": "Other"
+  },
+  {
+    "name": "RF/IF and RFID",
+    "url": "https://www.digikey.com/en/products/category/rf-if-and-rfid/37?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALAJwDsIhcADFY-eGAMwIC6Avv0A",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALAJwDsIhcADFY-eGAMwIC6Avv0A",
+    "category": "Other"
+  },
+  {
+    "name": "View All",
+    "url": "https://www.digikey.com/en/products/?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALAJwDsIhcADFY-eGAMwIC6Avv0A",
+    "category": "Other"
+  },
+  {
+    "name": "Audio Products",
+    "url": "https://www.digikey.com/en/products/category/audio-products/10?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALBQKwiFwAMVdlAnLYWBQEwIC6AXyFA",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Capacitors",
+    "url": "https://www.digikey.com/en/products/category/capacitors/3?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALBQKwiFwAMVdlAnLYWBQEwIC6AXyFA",
+    "category": "Capacitors"
+  },
+  {
+    "name": "Filters",
+    "url": "https://www.digikey.com/en/products/category/filters/36?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALBQKwiFwAMVdlAnLYWBQEwIC6AXyFA",
+    "category": "Other"
+  },
+  {
+    "name": "Inductors, Coils, Chokes",
+    "url": "https://www.digikey.com/en/products/category/inductors-coils-chokes/4?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALBQKwiFwAMVdlAnLYWBQEwIC6AXyFA",
+    "category": "Other"
+  },
+  {
+    "name": "Optoelectronics",
+    "url": "https://www.digikey.com/en/products/filter/ballasts-inverters/97?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALBQKwiFwAMVdlAnLYWBQEwIC6AXyFA",
+    "category": "Other"
+  },
+  {
+    "name": "RF/IF and RFID",
+    "url": "https://www.digikey.com/en/products/category/rf-if-and-rfid/37?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALBQKwiFwAMVdlAnLYWBQEwIC6AXyFA",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALBQKwiFwAMVdlAnLYWBQEwIC6AXyFA",
+    "category": "Other"
+  },
+  {
+    "name": "Transformers",
+    "url": "https://www.digikey.com/en/products/category/transformers/11?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIALBQKwiFwAMVdlAnLYWBQEwIC6AXyFA",
+    "category": "Other"
+  },
+  {
+    "name": "Cable Assemblies",
+    "url": "https://www.digikey.com/en/products/category/cable-assemblies/21?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIcADJQCwiFw12E0Csl94YATN52AHZ%2BA5uG6UEhMO0nh2ANk40ILRkqGFeAZk7cwlAJy6wWvgF0AvlaA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Cables, Wires - Management",
+    "url": "https://www.digikey.com/en/products/category/cables-wires-management/23?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIcADJQCwiFw12E0Csl94YATN52AHZ%2BA5uG6UEhMO0nh2ANk40ILRkqGFeAZk7cwlAJy6wWvgF0AvlaA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Connectors, Interconnects",
+    "url": "https://www.digikey.com/en/products/category/connectors-interconnects/20?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIcADJQCwiFw12E0Csl94YATN52AHZ%2BA5uG6UEhMO0nh2ANk40ILRkqGFeAZk7cwlAJy6wWvgF0AvlaA",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Relays",
+    "url": "https://www.digikey.com/en/products/category/relays/14?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIcADJQCwiFw12E0Csl94YATN52AHZ%2BA5uG6UEhMO0nh2ANk40ILRkqGFeAZk7cwlAJy6wWvgF0AvlaA",
+    "category": "Other"
+  },
+  {
+    "name": "Resistors",
+    "url": "https://www.digikey.com/en/products/category/resistors/2?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIcADJQCwiFw12E0Csl94YATN52AHZ%2BA5uG6UEhMO0nh2ANk40ILRkqGFeAZk7cwlAJy6wWvgF0AvlaA",
+    "category": "Other"
+  },
+  {
+    "name": "Sensors, Transducers",
+    "url": "https://www.digikey.com/en/products/category/sensors-transducers/25?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIcADJQCwiFw12E0Csl94YATN52AHZ%2BA5uG6UEhMO0nh2ANk40ILRkqGFeAZk7cwlAJy6wWvgF0AvlaA",
+    "category": "Other"
+  },
+  {
+    "name": "Switches",
+    "url": "https://www.digikey.com/en/products/category/switches/15?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIcADJQCwiFw12E0Csl94YATN52AHZ%2BA5uG6UEhMO0nh2ANk40ILRkqGFeAZk7cwlAJy6wWvgF0AvlaA",
+    "category": "Other"
+  },
+  {
+    "name": "Tools",
+    "url": "https://www.digikey.com/en/products/category/tools/17?s=N4IgjCBcoLQBxVAYygMwIYBsDOBTANCAPZQDaIcADJQCwiFw12E0Csl94YATN52AHZ%2BA5uG6UEhMO0nh2ANk40ILRkqGFeAZk7cwlAJy6wWvgF0AvlaA",
+    "category": "Other"
+  },
+  {
+    "name": "Industrial Supplies",
+    "url": "https://www.digikey.com/en/products/category/industrial-supplies/49",
+    "category": "Other"
+  },
+  {
+    "name": "Kits",
+    "url": "https://www.digikey.com/en/products/category/kits/31",
+    "category": "Other"
+  },
+  {
+    "name": "Labels, Signs, Barriers, Identification",
+    "url": "https://www.digikey.com/en/products/category/labels-signs-barriers-identification/980",
+    "category": "Other"
+  },
+  {
+    "name": "Line Protection, Distribution, Backups",
+    "url": "https://www.digikey.com/en/products/category/line-protection-distribution-backups/35",
+    "category": "Other"
+  },
+  {
+    "name": "Maker/DIY, Educational",
+    "url": "https://www.digikey.com/en/products/category/maker-diy-educational/47",
+    "category": "Other"
+  },
+  {
+    "name": "Optics",
+    "url": "https://www.digikey.com/en/products/category/optics/41",
+    "category": "Other"
+  },
+  {
+    "name": "Power Supplies - Board Mount",
+    "url": "https://www.digikey.com/en/products/category/power-supplies-board-mount/43",
+    "category": "Other"
+  },
+  {
+    "name": "Power Supplies - External/Internal (Off-Board)",
+    "url": "https://www.digikey.com/en/products/category/power-supplies-external-internal-off-board/8",
+    "category": "Other"
+  },
+  {
+    "name": "Tapes, Adhesives, Materials",
+    "url": "https://www.digikey.com/en/products/category/tapes-adhesives-materials/40",
+    "category": "Other"
+  },
+  {
+    "name": "Uncategorized",
+    "url": "https://www.digikey.com/en/products/category/uncategorized/1",
+    "category": "Other"
+  },
+  {
+    "name": "Modular ESD Desks, Workstations333Items",
+    "url": "https://www.digikey.com/en/products/filter/modular-esd-desks-workstations/1016",
+    "category": "Anti-Static, ESD, Clean Room Products"
+  },
+  {
+    "name": "Amplifiers74Items",
+    "url": "https://www.digikey.com/en/products/filter/amplifiers/998",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Guitar Parts, Accessories1Items",
+    "url": "https://www.digikey.com/en/products/filter/guitar-parts-accessories/1001",
+    "category": "Other"
+  },
+  {
+    "name": "Latches, Locks1,162Items",
+    "url": "https://www.digikey.com/en/products/filter/latches-locks/973",
+    "category": "Other"
+  },
+  {
+    "name": "Patchbay, Jack Panel Accessories546Items",
+    "url": "https://www.digikey.com/en/products/filter/patchbay-jack-panel-accessories/593",
+    "category": "Other"
+  },
+  {
+    "name": "Rack Thermal Management3,922Items",
+    "url": "https://www.digikey.com/en/products/filter/rack-thermal-management/602",
+    "category": "Other"
+  },
+  {
+    "name": "Storage767Items",
+    "url": "https://www.digikey.com/en/products/filter/storage/1097",
+    "category": "Other"
+  },
+  {
+    "name": "Storage Accessories50Items",
+    "url": "https://www.digikey.com/en/products/filter/storage-accessories/1098",
+    "category": "Other"
+  },
+  {
+    "name": "Barrel Connector Cables2,103Items",
+    "url": "https://www.digikey.com/en/products/category/barrel-connector-cables/2038",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Barrel Audio Cables1,211Items",
+    "url": "https://www.digikey.com/en/products/filter/barrel-connector-cables/barrel-audio-cables/463",
+    "category": "Audio Products"
+  },
+  {
+    "name": "Fiber Optic Cables47,782Items",
+    "url": "https://www.digikey.com/en/products/filter/fiber-optic-cables/449",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Firewire Cables (IEEE 1394)160Items",
+    "url": "https://www.digikey.com/en/products/filter/firewire-cables-ieee-1394/454",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "LGH Cables409Items",
+    "url": "https://www.digikey.com/en/products/filter/lgh-cables/465",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Smart Cables118Items",
+    "url": "https://www.digikey.com/en/products/filter/smart-cables/468",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Solid State Lighting Cables316Items",
+    "url": "https://www.digikey.com/en/products/filter/solid-state-lighting-cables/469",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Specialized Cable Assemblies2,930Items",
+    "url": "https://www.digikey.com/en/products/filter/specialized-cable-assemblies/467",
+    "category": "Cables & Connectors"
+  },
+  {
+    "name": "Video Cables (DVI, HDMI)2,860Items",
+    "url": "https://www.digikey.com/en/products/filter/video-cables-dvi-hdmi/462",
+    "category": "Cables & Connectors"
+  }
+]
