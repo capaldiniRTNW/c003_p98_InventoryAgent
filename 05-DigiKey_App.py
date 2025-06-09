@@ -12,24 +12,31 @@ st.subheader("Manage Your Inventory With AI to Ride the Next Wave")
 
 st.subheader("\nProduct Search")
 
+df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
+
+cat_list = df["Product Category"].unique().tolist()
+
+
 with st.expander("Search Product"):
     st.subheader("Search a Product Category")
-    title = st.text_input("Product Category", "RD/FD")
-    if st.button("Say hello"):
-        st.write("The Category Being Searched is:", title)
+    cat = st.selectbox(
+    "How would you like to be contacted?",
+    cat_list, placeholder= "Plug Housings")
+
+
+
+    if st.button("Search"):
+        st.write("The Category Being Searched is:", cat)
 
     col1, col2 = st.columns(2)
 
     with col1:
         st.header("Quantile Dot Plot")
-        fig, ax = plt.subplots(figsize=(10, 7))
-        data = np.random.lognormal(mean=np.log(11.4), sigma=0.2, size=1_000_000)
-        ax = ntile_dotplot(data, dots=20, edgecolor="k", linewidth=2, ax=ax)
-        st.pyplot(fig)
+        st.image("figures/sfp_{}.png".format(cat.translate(str.maketrans(" /", "__"))))
 
     with col2:
         st.header("Summary")
-        st.image("https://static.streamlit.io/examples/dog.jpg")
+        st.text("This is text\n This is where a summary for the product will go.")
 
 df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
 df['Product_Category'] = df.apply(
