@@ -5,6 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from quantile_dotplot import ntile_dotplot
+from sandbox_openai import search_product_category
 
 st.set_page_config(layout="wide")
 st.title("Digikey App")
@@ -18,9 +19,8 @@ cat_list = df["Product Category"].unique().tolist()
 
 
 with st.expander("Search Product"):
-    st.subheader("Search a Product Category")
-    cat = st.selectbox(
-    "How would you like to be contacted?",
+    #st.subheader("Search a Product Category")
+    cat = st.selectbox(" ",
     cat_list, placeholder= "Plug Housings")
 
     if st.button("Search"):
@@ -31,10 +31,11 @@ with st.expander("Search Product"):
     with col1:
         st.header("Quantile Dot Plot")
         st.image("figures/sfp_{}.png".format(cat.translate(str.maketrans(" /", "__"))))
-
+ 
     with col2:
         st.header("Summary")
-        st.text("This is text\n This is where a summary for the product will go.")
+        result = search_product_category(cat)
+        st.write(result) 
 
 df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
 df['Product_Category'] = df.apply(

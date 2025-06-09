@@ -65,10 +65,7 @@ def search_product_category(category):
         df, articles_data = load_data(csv_path, json_path)
         related_articles = get_articles_for_category(category, df, articles_data)
         summary = generate_product_summary(category, related_articles)
-        return {
-            'category': category,
-            'summary': summary,
-        }
+        return summary
     except Exception as e:
         return {
             'category': category,
