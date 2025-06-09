@@ -17,7 +17,6 @@ df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
 
 cat_list = df["Product Category"].unique().tolist()
 
-
 with st.expander("Search Product"):
     #st.subheader("Search a Product Category")
     cat = st.selectbox(" ",
@@ -38,7 +37,7 @@ with st.expander("Search Product"):
         st.write(result) 
 
 df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
-df['Product_Category'] = df.apply(
+df['Product Category'] = df.apply(
     lambda row: f'<a href="{row["Product url"]}" target="_blank">{row["Product Category"]}</a>',
     axis=1
 )
@@ -54,7 +53,6 @@ for i in range(1, 4):  # Adjust range if you have more than 3 articles
             axis=1
         )
         df = df.drop(columns=[link_col])
-
 
 # Product Search
 st.subheader("\nProduct Table")
