@@ -23,8 +23,6 @@ with st.expander("Search Product"):
     "How would you like to be contacted?",
     cat_list, placeholder= "Plug Housings")
 
-
-
     if st.button("Search"):
         st.write("The Category Being Searched is:", cat)
 
