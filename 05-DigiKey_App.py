@@ -2,6 +2,9 @@
 
 import streamlit as st
 import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from quantile_dotplot import ntile_dotplot
 
 st.set_page_config(layout="wide")
 st.title("Digikey App")
@@ -19,16 +22,18 @@ with st.expander("Search Product"):
 
     with col1:
         st.header("Quantile Dot Plot")
-        st.image("https://static.streamlit.io/examples/cat.jpg")
+        fig, ax = plt.subplots(figsize=(10, 7))
+        data = np.random.lognormal(mean=np.log(11.4), sigma=0.2, size=1_000_000)
+        ax = ntile_dotplot(data, dots=20, edgecolor="k", linewidth=2, ax=ax)
+        st.pyplot(fig)
 
     with col2:
         st.header("Summary")
         st.image("https://static.streamlit.io/examples/dog.jpg")
 
-
 df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
-df['Product Name'] = df.apply(
-    lambda row: f'<a href="{row["Product url"]}" target="_blank">{row["Product Name"]}</a>',
+df['Product_Category'] = df.apply(
+    lambda row: f'<a href="{row["Product url"]}" target="_blank">{row["Product Category"]}</a>',
     axis=1
 )
 df = df.drop(columns=['Product url'])
