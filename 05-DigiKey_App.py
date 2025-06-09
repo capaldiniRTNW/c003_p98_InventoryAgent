@@ -7,6 +7,25 @@ st.set_page_config(layout="wide")
 st.title("Digikey App")
 st.subheader("Manage Your Inventory With AI to Ride the Next Wave")
 
+st.subheader("\nProduct Search")
+
+with st.expander("Search Product"):
+    st.subheader("Search a Product Category")
+    title = st.text_input("Product Category", "RD/FD")
+    if st.button("Say hello"):
+        st.write("The Category Being Searched is:", title)
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.header("Quantile Dot Plot")
+        st.image("https://static.streamlit.io/examples/cat.jpg")
+
+    with col2:
+        st.header("Summary")
+        st.image("https://static.streamlit.io/examples/dog.jpg")
+
+
 df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
 df['Product Name'] = df.apply(
     lambda row: f'<a href="{row["Product url"]}" target="_blank">{row["Product Name"]}</a>',
@@ -24,6 +43,10 @@ for i in range(1, 4):  # Adjust range if you have more than 3 articles
             axis=1
         )
         df = df.drop(columns=[link_col])
+
+
+# Product Search
+st.subheader("\nProduct Table")
 
 # Create HTML table
 def render_html_table(dataframe):
