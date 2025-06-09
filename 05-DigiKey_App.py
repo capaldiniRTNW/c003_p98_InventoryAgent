@@ -7,8 +7,16 @@ import numpy as np
 from quantile_dotplot import ntile_dotplot
 from sandbox_openai import search_product_category
 
-st.set_page_config(layout="wide")
-st.title("Digikey App")
+st.set_page_config(
+    page_title="Inventory Dashboard",
+    page_icon="assets/logo.ico",  # .ico, .png, .jpg all work
+    layout="wide"
+)
+
+st.image("assets/digikey_big_logo.png", width=300)
+
+
+#st.title("Digikey App")
 st.subheader("Manage Your Inventory With AI to Ride the Next Wave")
 
 st.subheader("\nProduct Search")
