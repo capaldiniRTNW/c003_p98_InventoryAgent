@@ -70,7 +70,7 @@
       "name": "Accessories",
       "url": "https://www.digikey.com/en/products/filter/accessories/159",
       "category": "Other",
-      "Products": 594
+      "Products": 595
     },
     {
       "name": "Alarms, Buzzers, and Sirens",
@@ -100,7 +100,7 @@
       "name": "Microphones",
       "url": "https://www.digikey.com/en/products/filter/microphones/158",
       "category": "Audio Products",
-      "Products": 1457
+      "Products": 1456
     },
     {
       "name": "Speakers",
@@ -124,7 +124,7 @@
       "name": "Battery Chargers",
       "url": "https://www.digikey.com/en/products/filter/battery-chargers/85",
       "category": "Battery Products",
-      "Products": 798
+      "Products": 788
     },
     {
       "name": "Battery Holders, Clips, Contacts",
@@ -136,7 +136,7 @@
       "name": "Battery Packs",
       "url": "https://www.digikey.com/en/products/filter/battery-packs/89",
       "category": "Battery Products",
-      "Products": 2125
+      "Products": 1904
     },
     {
       "name": "Battery Product Accessories",
@@ -160,7 +160,7 @@
       "name": "Box Accessories",
       "url": "https://www.digikey.com/en/products/filter/box-accessories/595",
       "category": "Other",
-      "Products": 9988
+      "Products": 9986
     },
     {
       "name": "Box Components",
@@ -172,7 +172,7 @@
       "name": "Boxes",
       "url": "https://www.digikey.com/en/products/filter/boxes/594",
       "category": "Other",
-      "Products": 27404
+      "Products": 27405
     },
     {
       "name": "Cams",
@@ -262,7 +262,7 @@
       "name": "Storage",
       "url": "https://www.digikey.com/en/products/filter/storage/1097",
       "category": "Other",
-      "Products": 738
+      "Products": 750
     },
     {
       "name": "Storage Accessories",
@@ -304,7 +304,7 @@
       "name": "Coaxial Cables (RF)",
       "url": "https://www.digikey.com/en/products/filter/coaxial-cables-rf/456",
       "category": "Cables & Connectors",
-      "Products": 544088
+      "Products": 544082
     },
     {
       "name": "D-Shaped, Centronics Cables",
@@ -316,13 +316,13 @@
       "name": "D-Sub Cables",
       "url": "https://www.digikey.com/en/products/filter/d-sub-cables/461",
       "category": "Cables & Connectors",
-      "Products": 12374
+      "Products": 12375
     },
     {
       "name": "Fiber Optic Cables",
       "url": "https://www.digikey.com/en/products/filter/fiber-optic-cables/449",
       "category": "Cables & Connectors",
-      "Products": 47782
+      "Products": 47780
     },
     {
       "name": "Firewire Cables (IEEE 1394)",
@@ -358,7 +358,7 @@
       "name": "Modular/Ethernet Cables (RJ45, RJ11)",
       "url": "https://www.digikey.com/en/products/filter/modular-ethernet-cables-rj45-rj11/451",
       "category": "Cables & Connectors",
-      "Products": 57098
+      "Products": 57095
     },
     {
       "name": "Pluggable Cables",
@@ -370,7 +370,7 @@
       "name": "Power, Line Cables and Extension Cords",
       "url": "https://www.digikey.com/en/products/filter/power-line-cables-and-extension-cords/452",
       "category": "Cables & Connectors",
-      "Products": 6291
+      "Products": 6290
     },
     {
       "name": "Rectangular Cable Assemblies",
@@ -406,7 +406,7 @@
       "name": "Video Cables (DVI, HDMI)",
       "url": "https://www.digikey.com/en/products/filter/video-cables-dvi-hdmi/462",
       "category": "Cables & Connectors",
-      "Products": 2860
+      "Products": 2859
     },
     {
       "name": "Coaxial Cables (RF)",
@@ -448,7 +448,7 @@
       "name": "Single Conductor Cables (Hook-Up Wire)",
       "url": "https://www.digikey.com/en/products/filter/single-conductor-cables-hook-up-wire/474",
       "category": "Cables & Connectors",
-      "Products": 28964
+      "Products": 28963
     },
     {
       "name": "Wire Wrap",
@@ -472,7 +472,7 @@
       "name": "Cable and Cord Grips",
       "url": "https://www.digikey.com/en/products/filter/cable-and-cord-grips/492",
       "category": "Cables & Connectors",
-      "Products": 15850
+      "Products": 15849
     },
     {
       "name": "Cable Supports and Fasteners",
@@ -616,7 +616,7 @@
       "name": "Aluminum Electrolytic Capacitors",
       "url": "https://www.digikey.com/en/products/filter/aluminum-electrolytic-capacitors/58",
       "category": "Capacitors",
-      "Products": 110128
+      "Products": 110129
     },
     {
       "name": "Capacitor Networks, Arrays",
@@ -628,7 +628,7 @@
       "name": "Ceramic Capacitors",
       "url": "https://www.digikey.com/en/products/filter/ceramic-capacitors/60",
       "category": "Capacitors",
-      "Products": 873510
+      "Products": 873534
     },
     {
       "name": "Electric Double Layer Capacitors (EDLC), Supercapacitors",
@@ -676,7 +676,7 @@
       "name": "Tantalum Capacitors",
       "url": "https://www.digikey.com/en/products/filter/tantalum-capacitors/59",
       "category": "Capacitors",
-      "Products": 109745
+      "Products": 109747
     },
     {
       "name": "Thin Film Capacitors",
@@ -694,7 +694,7 @@
       "name": "Circuit Breakers",
       "url": "https://www.digikey.com/en/products/filter/circuit-breakers/143",
       "category": "Other",
-      "Products": 73743
+      "Products": 73744
     },
     {
       "name": "Circuit Protection Accessories",
@@ -748,7 +748,7 @@
       "name": "PTC Resettable Fuses",
       "url": "https://www.digikey.com/en/products/filter/ptc-resettable-fuses/150",
       "category": "Other",
-      "Products": 5094
+      "Products": 5096
     },
     {
       "name": "Surge Suppression ICs",
@@ -832,7 +832,7 @@
       "name": "Computer Mouse, Trackballs",
       "url": "https://www.digikey.com/en/products/filter/computer-mouse-trackballs/893",
       "category": "Other",
-      "Products": 210
+      "Products": 209
     },
     {
       "name": "Desktop Joysticks, Simulation Products",
@@ -874,7 +874,7 @@
       "name": "Monitors",
       "url": "https://www.digikey.com/en/products/filter/monitors/900",
       "category": "Other",
-      "Products": 555
+      "Products": 556
     },
     {
       "name": "Printers, Label Makers",
