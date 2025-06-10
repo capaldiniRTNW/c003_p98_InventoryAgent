@@ -4,6 +4,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import time
 from quantile_dotplot import ntile_dotplot
 from sandbox_openai import search_product_category
 
@@ -41,8 +42,15 @@ with st.expander("Search Product"):
  
     with col2:
         st.header("Summary")
-        result = search_product_category(cat)
-        st.write(result) 
+        spinner_container = st.empty()
+        with spinner_container:
+            _, center_col, _ = st.columns([1, 2, 1])
+            with center_col:
+                with st.spinner("Generating...", show_time=False):
+                    result = search_product_category(cat)
+        spinner_container.empty()
+        st.write(result)
+      
 
 df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
 df['Product Category'] = df.apply(
