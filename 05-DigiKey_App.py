@@ -24,6 +24,9 @@ st.subheader("Manage Your Inventory With AI to Ride the Next Wave")
 def render_html_table(dataframe):
     html = '''
     <style>
+        table, th, td {
+                font-family: Arial, sans-serif;
+            }
         .toggle-box { cursor: pointer; color: blue; text-decoration: underline; }
         .full-text { display: none; }
         .desc-cell { max-width: 400px; }
