@@ -46,18 +46,20 @@ with st.expander("Search Product"):
         with spinner_container:
             _, center_col, _ = st.columns([1, 2, 1])
             with center_col:
-                with st.spinner("Generating...", show_time=False):
+                with st.spinner("Generating insights...", show_time=False):
                     result = search_product_category(cat)
         spinner_container.empty()
         st.write(result)
       
 
 df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
+
 df['Product Category'] = df.apply(
     lambda row: f'<a href="{row["Product url"]}" target="_blank">{row["Product Category"]}</a>',
     axis=1
 )
 df = df.drop(columns=['Product url'])
+df = df.drop(columns=['Description'])
 
 for i in range(1, 4):  # Adjust range if you have more than 3 articles
     title_col = f'Article_{i}_Title'
@@ -75,11 +77,11 @@ st.subheader("\nProduct Table")
 
 # Create HTML table
 def render_html_table(dataframe):
-    html = '''
-    <div style="overflow-x: auto; width: 100%;">
+    html = ''' 
+ <div style="overflow-x: auto; width: 100%;">
         <table border="1" style="border-collapse: collapse; width: max-content; min-width: 100%;">
             <thead><tr>
-    '''
+'''
     for col in dataframe.columns:
         html += f'<th style="padding: 8px; background-color: #ffffff;">{col}</th>'
     html += '</tr></thead><tbody>'
@@ -93,3 +95,4 @@ def render_html_table(dataframe):
 
 df = df.fillna('')
 st.markdown(render_html_table(df), unsafe_allow_html=True)
+
