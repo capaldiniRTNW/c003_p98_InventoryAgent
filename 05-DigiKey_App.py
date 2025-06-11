@@ -119,7 +119,10 @@ with tab2:
         axis=1
     )
     df = df.drop(columns=['Product url'])
-    # df = df.drop(columns=['Description'])
+    df = df.drop(columns=['090_day_forecast'])
+    df['90 Days Forecast'] = df['90 Days Forecast'].round()
+    df = df.drop(df.columns[-1], axis=1)
+    df = df.drop(df.columns[[4]], axis=1)
 
     for i in range(1, 4):  # Adjust range if you have more than 3 articles
         title_col = f'Article_{i}_Title'
