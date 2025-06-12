@@ -81,15 +81,13 @@ tab2, tab1 = st.tabs([ "Product Table", "Product Search & Analysis"])
 
 with tab1:
     st.subheader("Product Search")
-
     df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
-
+    raw_df = df.copy()
     cat_list = df["Product Category"].unique().tolist()
 
     with st.expander("Search Product"):
-        #st.subheader("Search a Product Category")
         cat = st.selectbox(" ",
-        cat_list, placeholder= "Plug Housings")
+        sorted(cat_list), placeholder= "Plug Housings")
 
         if st.button("Search"):
             st.write("The Category Being Searched is:", cat)
@@ -114,7 +112,7 @@ with tab1:
 
 with tab2:
     st.subheader("Product Table")
-    
+
     df = pd.read_csv('./intermediate_data/Product_Article_Matching.csv')
 
     df['Product Category'] = df.apply(
@@ -139,4 +137,26 @@ with tab2:
             df = df.drop(columns=[link_col])
 
     df = df.fillna('')
-    components.html(render_html_table(df), height=600, scrolling=True)
+    col1,col2 = st.columns([3, 1])
+
+    with col1:
+        selected_cat2 = st.selectbox(" ", sorted(cat_list), placeholder="Search here")
+
+    with col2:
+        new_df = raw_df[["Product Category", "Products", "90 Days Forecast", "Description", "Article_1_Score", "Article_1_Title","Article_2_Score","Article_2_Title","Article_3_Score","Article_3_Title"]].copy()
+        csv = new_df.to_csv(index=False)
+        st.write("") 
+        st.write("") 
+        st.download_button(
+            label="📥 Download CSV",
+            data=csv,
+            file_name="product_data.csv",
+            mime="text/csv"
+        )
+
+    if selected_cat2:
+        filtered_df = df[df["Product Category"].str.contains(selected_cat2, case=False, na=False)]
+        if not filtered_df.empty:
+            components.html(render_html_table(filtered_df), height=400, scrolling=True)
+        else:
+            st.warning("No matching category found.")
