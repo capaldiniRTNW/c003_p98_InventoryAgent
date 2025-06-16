@@ -81,7 +81,7 @@
     "name": "Amplifiers",
     "url": "https://www.digikey.com/en/products/filter/amplifiers/998",
     "category": "Audio Products",
-    "Products": 74
+    "Products": 73
   },
   {
     "name": "Buzzer Elements, Piezo Benders",
@@ -99,7 +99,7 @@
     "name": "Microphones",
     "url": "https://www.digikey.com/en/products/filter/microphones/158",
     "category": "Audio Products",
-    "Products": 1456
+    "Products": 1453
   },
   {
     "name": "Speakers",
@@ -111,19 +111,19 @@
     "name": "Batteries Non-Rechargeable (Primary)",
     "url": "https://www.digikey.com/en/products/filter/batteries-non-rechargeable-primary/90",
     "category": "Battery Products",
-    "Products": 1752
+    "Products": 1758
   },
   {
     "name": "Batteries Rechargeable (Secondary)",
     "url": "https://www.digikey.com/en/products/filter/batteries-rechargeable-secondary/91",
     "category": "Battery Products",
-    "Products": 1715
+    "Products": 1716
   },
   {
     "name": "Battery Chargers",
     "url": "https://www.digikey.com/en/products/filter/battery-chargers/85",
     "category": "Battery Products",
-    "Products": 797
+    "Products": 791
   },
   {
     "name": "Battery Holders, Clips, Contacts",
@@ -159,7 +159,7 @@
     "name": "Box Accessories",
     "url": "https://www.digikey.com/en/products/filter/box-accessories/595",
     "category": "Other",
-    "Products": 10018
+    "Products": 10047
   },
   {
     "name": "Box Components",
@@ -171,7 +171,7 @@
     "name": "Boxes",
     "url": "https://www.digikey.com/en/products/filter/boxes/594",
     "category": "Other",
-    "Products": 27401
+    "Products": 27413
   },
   {
     "name": "Cams",
@@ -237,7 +237,7 @@
     "name": "Rack Accessories",
     "url": "https://www.digikey.com/en/products/filter/rack-accessories/598",
     "category": "Other",
-    "Products": 13546
+    "Products": 13547
   },
   {
     "name": "Rack Components",
@@ -255,13 +255,13 @@
     "name": "Racks",
     "url": "https://www.digikey.com/en/products/filter/racks/597",
     "category": "Other",
-    "Products": 4093
+    "Products": 4094
   },
   {
     "name": "Storage",
     "url": "https://www.digikey.com/en/products/filter/storage/1097",
     "category": "Other",
-    "Products": 748
+    "Products": 756
   },
   {
     "name": "Storage Accessories",
@@ -297,13 +297,13 @@
     "name": "Circular Cable Assemblies",
     "url": "https://www.digikey.com/en/products/filter/circular-cable-assemblies/448",
     "category": "Cables & Connectors",
-    "Products": 105561
+    "Products": 105569
   },
   {
     "name": "Coaxial Cables (RF)",
     "url": "https://www.digikey.com/en/products/filter/coaxial-cables-rf/456",
     "category": "Cables & Connectors",
-    "Products": 544469
+    "Products": 544496
   },
   {
     "name": "D-Shaped, Centronics Cables",
@@ -321,7 +321,7 @@
     "name": "Fiber Optic Cables",
     "url": "https://www.digikey.com/en/products/filter/fiber-optic-cables/449",
     "category": "Cables & Connectors",
-    "Products": 47779
+    "Products": 47777
   },
   {
     "name": "Firewire Cables (IEEE 1394)",
@@ -357,7 +357,7 @@
     "name": "Modular/Ethernet Cables (RJ45, RJ11)",
     "url": "https://www.digikey.com/en/products/filter/modular-ethernet-cables-rj45-rj11/451",
     "category": "Cables & Connectors",
-    "Products": 57145
+    "Products": 57143
   },
   {
     "name": "Pluggable Cables",
@@ -369,7 +369,7 @@
     "name": "Power, Line Cables and Extension Cords",
     "url": "https://www.digikey.com/en/products/filter/power-line-cables-and-extension-cords/452",
     "category": "Cables & Connectors",
-    "Products": 6306
+    "Products": 6316
   },
   {
     "name": "Rectangular Cable Assemblies",
@@ -405,13 +405,13 @@
     "name": "Video Cables (DVI, HDMI)",
     "url": "https://www.digikey.com/en/products/filter/video-cables-dvi-hdmi/462",
     "category": "Cables & Connectors",
-    "Products": 2859
+    "Products": 2858
   },
   {
     "name": "Coaxial Cables (RF)",
     "url": "https://www.digikey.com/en/products/filter/coaxial-cables-rf/475",
     "category": "Cables & Connectors",
-    "Products": 4308
+    "Products": 4322
   },
   {
     "name": "Fiber Optic Cables",
@@ -441,13 +441,13 @@
     "name": "Multiple Conductor Cables",
     "url": "https://www.digikey.com/en/products/filter/multiple-conductor-cables/473",
     "category": "Cables & Connectors",
-    "Products": 47505
+    "Products": 47504
   },
   {
     "name": "Single Conductor Cables (Hook-Up Wire)",
     "url": "https://www.digikey.com/en/products/filter/single-conductor-cables-hook-up-wire/474",
     "category": "Cables & Connectors",
-    "Products": 28987
+    "Products": 28985
   },
   {
     "name": "Wire Wrap",
@@ -459,7 +459,7 @@
     "name": "Accessories",
     "url": "https://www.digikey.com/en/products/filter/accessories/479",
     "category": "Other",
-    "Products": 7411
+    "Products": 7412
   },
   {
     "name": "Bushings, Grommets",
@@ -489,7 +489,7 @@
     "name": "Cable Ties and Zip Ties",
     "url": "https://www.digikey.com/en/products/filter/cable-ties-and-zip-ties/482",
     "category": "Cables & Connectors",
-    "Products": 5979
+    "Products": 5977
   },
   {
     "name": "Cold Shrink Tape, Tubing",
@@ -549,7 +549,7 @@
     "name": "Protective Hoses, Solid Tubing, Sleeving",
     "url": "https://www.digikey.com/en/products/filter/protective-hoses-solid-tubing-sleeving/480",
     "category": "Other",
-    "Products": 3737
+    "Products": 3731
   },
   {
     "name": "Pulling, Support Grips",
@@ -627,7 +627,7 @@
     "name": "Ceramic Capacitors",
     "url": "https://www.digikey.com/en/products/filter/ceramic-capacitors/60",
     "category": "Capacitors",
-    "Products": 873553
+    "Products": 873500
   },
   {
     "name": "Electric Double Layer Capacitors (EDLC), Supercapacitors",
@@ -693,7 +693,7 @@
     "name": "Circuit Breakers",
     "url": "https://www.digikey.com/en/products/filter/circuit-breakers/143",
     "category": "Other",
-    "Products": 73743
+    "Products": 73747
   },
   {
     "name": "Circuit Protection Accessories",
@@ -771,7 +771,7 @@
     "name": "Surge Protection Devices (SPDs)",
     "url": "https://www.digikey.com/en/products/filter/transient-voltage-suppressors-tvs/surge-protection-devices-spds/992",
     "category": "Other",
-    "Products": 9847
+    "Products": 9886
   },
   {
     "name": "Thyristors",
@@ -783,13 +783,13 @@
     "name": "TVS Diodes",
     "url": "https://www.digikey.com/en/products/filter/transient-voltage-suppressors-tvs/tvs-diodes/144",
     "category": "Other",
-    "Products": 98690
+    "Products": 98696
   },
   {
     "name": "Transient Voltage Suppressors (TVS)",
     "url": "https://www.digikey.com/en/products/category/transient-voltage-suppressors-tvs/2040",
     "category": "Other",
-    "Products": 112265
+    "Products": 112310
   },
   {
     "name": "Varistors, MOVs",
@@ -801,7 +801,7 @@
     "name": "Accessories",
     "url": "https://www.digikey.com/en/products/filter/accessories/881",
     "category": "Other",
-    "Products": 5535
+    "Products": 5533
   },
   {
     "name": "Adapter Cards",
@@ -897,6 +897,6 @@
     "name": "USB Hubs",
     "url": "https://www.digikey.com/en/products/filter/usb-hubs/1015",
     "category": "Other",
-    "Products": 414
+    "Products": 407
   }
 ]

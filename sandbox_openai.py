@@ -59,15 +59,13 @@ def generate_product_summary(category, related_articles):
     return summary
 
 def search_product_category(category):
-    csv_path = './intermediate_data/Product_Article_Matching.csv'
-    json_path = './intermediate_data/Cleaned_Article_Data.json'
+    csv_path = './intermediate_data/04-Model/Products_Article_Matching.csv'
+    json_path = './intermediate_data/02-Clean/Cleaned_Products_Article_Data.json'
     try:
         df, articles_data = load_data(csv_path, json_path)
         related_articles = get_articles_for_category(category, df, articles_data)
         summary = generate_product_summary(category, related_articles)
         return summary
     except Exception as e:
-        return {
-            'category': category,
-            'summary': f"No category found",
-        }
+        return "No category found"
+        
