@@ -151,7 +151,7 @@ if st.session_state.page == "main":
                 with spinner_container:
                     _, center_col, _ = st.columns([1, 2, 1])
                     with center_col:
-                        with st.spinner("Generating insights...", show_time=False):
+                        with st.spinner("Generating insights..."):
                             result = search_product_category(cat)
                 spinner_container.empty()
                 st.write(result)

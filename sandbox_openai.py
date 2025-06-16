@@ -1,6 +1,6 @@
 import pandas as pd
 import json
-from langchain_openai.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain.schema import StrOutputParser
 from langchain_core.messages import SystemMessage, HumanMessage
@@ -8,13 +8,17 @@ import sys
 import os
 
 
-# Setting up environment
-sys.path.insert(0, os.path.abspath('..'))
-from config import set_environment
-set_environment()
+# # Setting up environment
+# sys.path.insert(0, os.path.abspath('..'))
+# from config import set_environment
+# set_environment()
 
 #Initialize LLM
-llm = ChatOpenAI(model_name='gpt-4-0613')
+llm = ChatOpenAI(
+    model_name="llama2",
+    base_url="http://localhost:11434/v1",  # or your VPS IP
+    api_key="sk-xxxx",  # Can be any dummy key, Ollama doesn't check it
+)
 
 def load_data(csv_path, json_path):
     df = pd.read_csv(csv_path)
@@ -67,5 +71,9 @@ def search_product_category(category):
         summary = generate_product_summary(category, related_articles)
         return summary
     except Exception as e:
-        return "No category found"
+        return f"❌ Error occurred: {e}"
+
         
+if __name__ == "__main__":
+    test_summary = search_product_category("Plug Housings")
+    print(test_summary)
