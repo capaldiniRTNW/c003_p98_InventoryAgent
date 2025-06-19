@@ -1,5 +1,7 @@
 # api keys - please see chapter 3 or README for instructions
 config.py
 
+__pycache__/
+
 # Ignore Sale Forecast Plot files
 sfp*
